@@ -1,0 +1,549 @@
+brand,carName,carImg,saleVolume,price,manufacturer,rank,carModel,energyType,marketTime,insure
+特斯拉,Model Y,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/60b8a92b0b304e60a4d0e8bc2f4f2272~tplv-resize:640:0.png,41110,"[35.49, 24.99]",特斯拉中国,1,中型SUV,纯电动,2024.02,4年或8万公里
+比亚迪,海鸥,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/57f96638e8d34ce282039ad70270aa98~tplv-resize:640:0.png,35201,"[8.58, 6.58]",比亚迪,2,小型车,纯电动,2024.08,6年或15万公里
+日产,轩逸,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f5483079e6094fb898c14f3b3d6c1493~tplv-resize:640:0.png,25573,"[16.19, 6.98]",东风日产,3,紧凑型车,汽油,2024.01,3年或10万公里
+大众,朗逸,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/657fc6190656454f9cfdb2a4d97b7874~tplv-resize:640:0.png,24348,"[10.89, 6.9]",上汽大众,4,紧凑型车,汽油,2023.09,3年或10万公里
+比亚迪,元PLUS,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0a5a6f5f1e4e417f823a51d894fa7345~tplv-resize:640:0.png,23918,"[14.78, 11.98]",比亚迪,5,紧凑型SUV,纯电动,2024.03,6年或15万公里
+理想汽车,理想L6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/70084ec6188c457d81e000f310d9af9b~tplv-resize:640:0.png,23864,"[27.98, 24.98]",理想汽车,6,中大型SUV,增程式,2024.04,5年或10万公里
+丰田,锋兰达,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2e716928f981407b80c5e8772b8141a2~tplv-resize:640:0.png,21951,"[15.48, 9.58]",广汽丰田,7,紧凑型SUV,汽油,2024.07,3年或10万公里
+比亚迪,秦PLUS DM,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b16feb96960c4b178686faea93e71f3c~tplv-resize:640:0.png,21679,"[12.58, 7.98]",比亚迪,8,紧凑型车,插电式混合动力,2024.02,6年或15万公里
+比亚迪,宋PLUS DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f8cbeac5dfe64f538702a05236429100~tplv-resize:640:0.png,20573,"[17.58, 12.48]",比亚迪,9,紧凑型SUV,插电式混合动力,2024.07,6年或15万公里
+比亚迪,驱逐舰05,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fdd396bacd4e433699c66a8dc73db8db~tplv-resize:640:0.png,19441,"[12.38, 7.98]",比亚迪,10,紧凑型车,插电式混合动力,2024.02,6年或15万公里
+大众,速腾,https://p3-dcd.byteimg.com/img/motor-mis-img/44c013067df2032cc03b6031eb68bf05~tplv-resize:640:0.png,19440,"[13.59, 9.09]",一汽-大众,11,紧凑型车,汽油,2024.04,3年或10万公里
+比亚迪,宋Pro DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/91291cb770c44932a3f6c14feedc82b3~tplv-resize:640:0.png,19316,"[13.98, 10.98]",比亚迪,12,紧凑型SUV,插电式混合动力,2024.03,6年或15万公里
+特斯拉,Model 3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/25d4d4c6e46f4f078d75e768fabd7f0e~tplv-resize:640:0.png,18151,"[33.59, 23.19]",特斯拉中国,13,中型车,纯电动,2024.04,4年或8万公里
+比亚迪,秦L DM,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/433b1c61fd5645379d4a1e83591fa3e1~tplv-resize:640:0.png,18021,"[13.98, 9.98]",比亚迪,14,中型车,插电式混合动力,2024.05,6年或15万公里
+AITO,问界M7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/3f0218d360774e5482bd7f2bc900d415~tplv-resize:640:0.png,17501,"[32.98, 24.98]",赛力斯汽车,15,中大型SUV,增程式,2023.09,4年或10万公里
+比亚迪,秦PLUS EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f2c7ac4f763b45f99d6492adc2ee9f39~tplv-resize:640:0.png,17222,"[15.98, 10.98]",比亚迪,16,紧凑型车,纯电动,2024.02,6年或15万公里
+大众,帕萨特,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/c9ddb9ea9b9047029212858b14caba31~tplv-resize:640:0.png,17097,"[18.13, 13.99]",上汽大众,17,中型车,汽油,2023.10,3年或10万公里
+埃安,AION Y,https://p9-dcd.byteimg.com/img/motor-mis-img/a4dcf08d322941eb5259fbcb35ead82e~tplv-resize:640:0.png,16670,"[14.08, 9.48]",广汽埃安新能源,18,紧凑型SUV,纯电动,2024.03,4年或15万公里
+本田,本田CR-V,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/bc20bec323e9460e862ac2b30b0f9991~tplv-resize:640:0.png,16570,"[22.39, 14.59]",东风本田,19,紧凑型SUV,油电混合,2024.04,3年或10万公里
+AITO,问界M9,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/c6eb4687b1d1477c86826edc4d417e6c~tplv-resize:640:0.png,16525,"[56.98, 46.98]",赛力斯汽车,20,大型SUV,增程式,2023.12,4年或10万公里
+丰田,RAV4荣放,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/c61a39f9015c4a1f85cc2f22acaa73b4~tplv-resize:640:0.png,16432,"[20.78, 12.68]",一汽丰田,21,紧凑型SUV,汽油,2023.04,3年或10万公里
+丰田,卡罗拉锐放,https://p3-dcd.byteimg.com/img/motor-mis-img/58d617d55bda2d2a8aeb9b9d0e8ca823~tplv-resize:640:0.png,16161,"[14.58, 8.98]",一汽丰田,22,紧凑型SUV,汽油,2024.06,3年或10万公里
+吉利汽车,星越L,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e089916842c943ab8277e180dfb3240b~tplv-resize:640:0.png,15828,"[17.02, 12.22]",吉利汽车,23,紧凑型SUV,汽油,2024.01,4年或10万公里
+奔驰,奔驰E级,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c02aa97643944bed96a20db674f0fcb6~tplv-resize:640:0.png,15200,"[50.88, 33.72]",北京奔驰,24,中大型车,48V轻混系统,2023.12,3年不限公里
+极氪,ZEEKR 001,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d134e37505c04c6582710d4f960a8126~tplv-resize:640:0.png,14383,"[32.9, 26.9]",极氪,25,中大型车,纯电动,2024.02,4年或10万公里
+小米汽车,小米SU7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7a507b6ec14c4ead9c95c336893aa9d2~tplv-resize:640:0.png,14296,"[29.99, 21.59]",小米汽车,26,中大型车,纯电动,2024.03,5年或10万公里
+奥迪,奥迪A6L,https://p9-dcd.byteimg.com/img/motor-mis-img/f8250b5672059b6380b04eeeb0d7fe33~tplv-resize:640:0.png,14271,"[47.29, 30.81]",一汽-大众奥迪,27,中大型车,汽油,2023.10,3年或10万公里
+大众,迈腾,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/af209a0bc7a548a89dc86b1062cac9c7~tplv-resize:640:0.png,14165,"[24.69, 13.19]",一汽-大众,28,中型车,汽油,2024.07,3年或10万公里
+埃安,AION S,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/eb774d9fa2a143efbfa6dfd38fbea82f~tplv-resize:640:0.png,13788,"[16.49, 12.28]",广汽埃安新能源,29,紧凑型车,纯电动,2024.07,4年或15万公里
+奔驰,奔驰GLC,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ced6f5cfd808493d8380351b584516c2~tplv-resize:640:0.png,13600,"[40.93, 30.58]",北京奔驰,30,中型SUV,48V轻混系统,2024.03,3年不限公里
+宝马,宝马3系,https://p3-dcd.byteimg.com/img/motor-mis-img/b4f69ed40e9e2f4f40a8874ce323e181~tplv-resize:640:0.png,13461,"[29.99, 19.99]",华晨宝马,31,中型车,汽油,2022.08,3年或10万公里
+奥迪,奥迪Q5L,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/67161a339e5c4639bdcfc59d4b67efc9~tplv-resize:640:0.png,12974,"[32.75, 26.72]",一汽-大众奥迪,32,中型SUV,汽油,2023.10,3年或10万公里
+奇瑞,瑞虎8,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/734a4fbac7cf461293613d4f1a478e5b~tplv-resize:640:0.png,12521,"[15.99, 8.99]",奇瑞汽车,33,中型SUV,汽油,2023.10,3年或10万公里
+坦克,坦克300,https://p3-dcd.byteimg.com/img/motor-mis-img/53d89e20ef5df0119912ecfc6db642ae~tplv-resize:640:0.png,12387,"[33, 19.98]",长城汽车,34,紧凑型SUV,汽油,2023.08,5年或15万公里
+丰田,威兰达,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/061f73faac15418fa6d7153922aa4efc~tplv-resize:640:0.png,12369,"[22.98, 12.88]",广汽丰田,35,紧凑型SUV,汽油,2024.05,3年或10万公里
+比亚迪,宋PLUS EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fa73e1ea76ca4aa9aa291fd9d73dbf98~tplv-resize:640:0.png,12338,"[18.48, 14.48]",比亚迪,36,紧凑型SUV,纯电动,2024.02,6年或15万公里
+丰田,凯美瑞,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f03dc47b2bf642968efaed9fc4afb46e~tplv-resize:640:0.png,12281,"[23.28, 14.48]",广汽丰田,37,中型车,汽油,2024.03,3年或10万公里
+本田,雅阁,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/01ea2955a1cb44ff8f048e3deabf2c17~tplv-resize:640:0.png,11964,"[18.38, 13.48]",广汽本田,38,中型车,汽油,2024.01,3年或10万公里
+奔驰,奔驰C级,https://p3-dcd.byteimg.com/img/motor-mis-img/fd1771f592228d51d414ac0e5fa2469c~tplv-resize:640:0.png,11900,"[26.86, 22.18]",北京奔驰,39,中型车,48V轻混系统,2024.03,3年不限公里
+比亚迪,唐DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8c1608c9862b4aafb901b9e9e392ad03~tplv-resize:640:0.png,11678,"[26.98, 17.98]",比亚迪,40,中型SUV,插电式混合动力,2024.02,6年或15万公里
+五菱汽车,五菱缤果,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7874a5c08b544f70ba7e8647e0ef0879~tplv-resize:640:0.png,11175,"[8.88, 5.68]",上汽通用五菱,41,小型车,纯电动,2024.06,3年或10万公里
+红旗,红旗H5,https://p3-dcd.byteimg.com/img/motor-mis-img/4e5a38bacf99a7c63567e63f3bde1216~tplv-resize:640:0.png,11133,"[19.58, 12.98]",一汽红旗,42,中型车,汽油,2023.08,4年或10万公里
+大众,探岳,https://p9-dcd.byteimg.com/img/motor-mis-img/fa07dcebd6da68142bf78b8afc536956~tplv-resize:640:0.png,10876,"[21.59, 16.09]",一汽-大众,43,中型SUV,汽油,2023.10,3年或10万公里
+比亚迪,汉DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a965de726e8a43909ebfe83ae9325804~tplv-resize:640:0.png,10857,"[25.98, 16.98]",比亚迪,44,中大型车,插电式混合动力,2024.02,6年或15万公里
+长安,长安CS75 PLUS,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/75ebab9e98d24c8b86fbae3f3554dc15~tplv-resize:640:0.png,10770,"[12.49, 9.99]",长安汽车,45,紧凑型SUV,汽油,2024.03,3年或10万公里
+奥迪,奥迪A4L,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/da440185e7f349d6b0d58938facb129d~tplv-resize:640:0.png,10744,"[26.05, 20.92]",一汽-大众奥迪,46,中型车,汽油,2023.10,3年或10万公里
+理想汽车,理想L7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/eb87a765755d45a3920455aabdadadcb~tplv-resize:640:0.png,10726,"[35.98, 30.18]",理想汽车,47,中大型SUV,增程式,2024.03,5年或10万公里
+五菱汽车,五菱宏光MINIEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/287e133f10e1402386d901c399885fbf~tplv-resize:640:0.png,10187,"[9.99, 3.28]",上汽通用五菱,48,微型车,纯电动,2023.11,3年或12万公里
+吉利汽车,帝豪,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5c786d6818bf460fabdb81c0cdf5f760~tplv-resize:640:0.png,10172,"[12.08, 5.19]",吉利汽车,49,紧凑型车,汽油,2024.07,4年或15万公里
+捷途,捷途旅行者,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/8978837049a9472c97d5983a41127d24~tplv-resize:640:0.png,10002,"[21.99, 13.99]",奇瑞汽车,50,紧凑型SUV,汽油,2024.01,4年或10万公里
+吉利汽车,星瑞,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4fc66389c5644e648c5093b476ccd036~tplv-resize:640:0.png,9926,"[13.57, 9.97]",吉利汽车,51,紧凑型车,汽油,2024.06,4年或10万公里
+大众,途观L,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/fae84b4c399e4a4294a7eca0fec5be6c~tplv-resize:640:0.png,9857,"[24.18, 13.38]",上汽大众,52,中型SUV,汽油,2024.05,3年或10万公里
+腾势,腾势D9 DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0fa1a154670f4bb9b330d0b931fa4024~tplv-resize:640:0.png,9667,"[60.06, 33.98]",腾势汽车,53,中大型MPV,插电式混合动力,2024.03,6年或15万公里
+奇瑞,艾瑞泽8,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d8d9de3901d34378b2fd87287e07b7fa~tplv-resize:640:0.png,9203,"[13.39, 8.69]",奇瑞汽车,54,紧凑型车,汽油,2024.03,3年或10万公里
+吉利汽车,熊猫,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/faf3420cf3fd4f949f777c2ad1d1d0cc~tplv-resize:640:0.png,9154,"[4.69, 2.99]",吉利汽车,55,微型车,纯电动,2024.03,3年或12万公里
+长安,逸动,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/539de6103bab4d678713a55c06cb9dce~tplv-resize:640:0.png,9149,"[7.99, 6.99]",长安汽车,56,紧凑型车,汽油,2024.03,3年或10万公里
+丰田,卡罗拉,https://p9-dcd.byteimg.com/img/motor-mis-img/b2fb8f96191b30a2992fc05fb5af0a4c~tplv-resize:640:0.png,8870,"[11.18, 7.28]",一汽丰田,57,紧凑型车,汽油,2024.07,3年或10万公里
+红旗,红旗E-QM5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/20187774599c4f4186b8e9913cf2989a~tplv-resize:640:0.png,8858,"[19.98, 12.58]",一汽红旗,58,中型车,纯电动,2024.04,3年或30万公里
+本田,皓影,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9886d3b902964d73a5284eeee4f1cfa8~tplv-resize:640:0.png,8841,"[22.89, 14.39]",广汽本田,59,紧凑型SUV,油电混合,2024.01,3年或10万公里
+长安,长安Lumin,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ce6c0eedd9c6421c94ef984285239d44~tplv-resize:640:0.png,8807,"[6.19, 3.39]",长安汽车,60,微型车,纯电动,2024.06,3年或12万公里
+红旗,红旗HS5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c7a30225a14f419081c59073b9e2b74d~tplv-resize:640:0.png,8742,"[21.98, 15.38]",一汽红旗,61,中型SUV,汽油,2024.03,4年或10万公里
+宝马,宝马X3,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/6ef160326cdc43d6b8395d9b0ae6a31c~tplv-resize:640:0.png,8656,"[34.69, 26.96]",华晨宝马,62,中型SUV,汽油,2023.02,3年或10万公里
+宝马,宝马5系,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e85fab8db1b346578e344ab528cbeaa2~tplv-resize:640:0.png,8436,"[40.09, 31.99]",华晨宝马,63,中大型车,48V轻混系统,2024.01,3年或10万公里
+比亚迪,海豚,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4f90467b59e54ad7a74c035d516e7772~tplv-resize:640:0.png,8429,"[12.98, 9.98]",比亚迪,64,小型车,纯电动,2024.07,6年或15万公里
+比亚迪,元UP,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/eca155ce5f884c349d4d541e5b9e7277~tplv-resize:640:0.png,8392,"[11.98, 9.38]",比亚迪,65,小型SUV,纯电动,2024.03,6年或15万公里
+吉利汽车,缤越,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f4da599a90704dfabdcd45194b4dea30~tplv-resize:640:0.png,8358,"[8.38, 6.08]",吉利汽车,66,小型SUV,汽油,2024.07,4年或10万公里
+丰田,赛那,https://p3-dcd.byteimg.com/img/motor-mis-img/3d40895e3ab4e118a086187f7e78ebba~tplv-resize:640:0.png,8099,"[38.58, 27.48]",广汽丰田,67,中大型MPV,油电混合,2024.04,3年或10万公里
+比亚迪,汉EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e6d6f7c2291d47f6a4a7d19c3ec01892~tplv-resize:640:0.png,7841,"[26.98, 17.98]",比亚迪,68,中大型车,纯电动,2024.02,6年或15万公里
+日产,逍客,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/74a5e843ff5340aea475757a258d43bb~tplv-resize:640:0.png,7834,"[16.69, 9.69]",东风日产,69,紧凑型SUV,汽油,2023.07,3年或10万公里
+蔚来,蔚来ES6,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/64a3a0a4ae604ebab934377a157a9851~tplv-resize:640:0.png,7654,"[39.6, 33.8]",蔚来,70,中型SUV,纯电动,2024.02,3年或12万公里
+比亚迪,海豹06,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e65fdc8293d04063bc07ed05198a2c83~tplv-resize:640:0.png,7625,"[13.98, 9.98]",比亚迪,71,中型车,插电式混合动力,2024.05,6年或15万公里
+宝马,宝马X1,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c9c9c02010874036a2f03c203ca1238a~tplv-resize:640:0.png,7493,"[21.49, 17.39]",华晨宝马,72,紧凑型SUV,汽油,2023.04,3年或10万公里
+比亚迪,海豹DM,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/74e489c57f1945faa0ac4ede26c433d1~tplv-resize:640:0.png,7325,"[21.48, 14]",比亚迪,73,中型车,插电式混合动力,2024.02,6年或15万公里
+深蓝汽车,深蓝S07,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e547cdc3ae5c487e87a624378b76ab13~tplv-resize:640:0.png,7310,"[20.29, 13.99]",深蓝汽车,74,中型SUV,增程式,2024.07,3年或12万公里
+丰田,汉兰达,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fe6bc328cfa64a6eb81d94f888a6e001~tplv-resize:640:0.png,7054,"[30.38, 21.98]",广汽丰田,75,中型SUV,油电混合,2024.05,3年或10万公里
+大众,大众ID.3,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/42a481517c384446ae0fe27e3f2c1248~tplv-resize:640:0.png,7043,"[13.69, 11.39]",上汽大众,76,紧凑型车,纯电动,2024.07,3年或10万公里
+宝马,宝马i3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/69adf783b37346dbae6000fff0502a9a~tplv-resize:640:0.png,6952,"[27.5, 21.5]",华晨宝马,77,中型车,纯电动,2023.11,3年或10万公里
+理想汽车,理想L9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4f056cfb109c43308e929851d8764605~tplv-resize:640:0.png,6841,"[43.98, 40.98]",理想汽车,78,大型SUV,增程式,2024.03,5年或10万公里
+哈弗,哈弗大狗,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/99d2cc4666d54e5487bbda4ac6efe2f2~tplv-resize:640:0.png,6810,"[12.49, 9.89]",长城汽车,79,紧凑型SUV,汽油,2023.07,3年或10万公里
+AITO,问界M5,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/4b38b8a6aaa5407a9f6c0bb5bc346058~tplv-resize:640:0.png,6796,"[27.98, 24.98]",赛力斯汽车,80,中型SUV,增程式,2024.04,4年或10万公里
+宝马,宝马X5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bf84f7f297c74b4ab69467bef101e7e1~tplv-resize:640:0.png,6727,"[72, 52.5]",华晨宝马,81,中大型SUV,48V轻混系统,2023.08,3年或10万公里
+本田,思域,https://p3-dcd.byteimg.com/img/motor-mis-img/af835d978de92b8342d900c8473c8d88~tplv-resize:640:0.png,6589,"[14.99, 9.19]",东风本田,82,紧凑型车,汽油,2022.12,3年或10万公里
+广汽传祺,传祺M8,https://p9-dcd.byteimg.com/img/motor-mis-img/6e784e8e17abc04adea0d726fe51ff69~tplv-resize:640:0.png,6562,"[33.28, 16.98]",广汽乘用车,83,中大型MPV,汽油,2024.05,3年或10万公里
+吉利银河,银河L7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f10ed13fe0594fda9a42cee9eebd18c1~tplv-resize:640:0.png,6499,"[16.57, 10.87]",吉利银河,84,紧凑型SUV,插电式混合动力,2024.03,4年或10万公里
+吉利银河,银河L6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0b3ee25dceca4fe5982a29702074a0a2~tplv-resize:640:0.png,6391,"[12.98, 9.38]",吉利银河,85,紧凑型车,插电式混合动力,2024.03,4年或10万公里
+大众,宝来,https://p9-dcd.byteimg.com/img/motor-mis-img/dbd8f3ffb172ce6ef271849013b14763~tplv-resize:640:0.png,6320,"[10.69, 7.59]",一汽-大众,86,紧凑型车,汽油,2024.04,3年或10万公里
+深蓝汽车,深蓝SL03,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/89bf7774d79f44eab5d9acca6ba8712e~tplv-resize:640:0.png,6221,"[69.99, 12.49]",深蓝汽车,87,中型车,增程式,2024.02,3年或12万公里
+领克,领克08 EM-P,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/17614683c5d74474b25696e6ba9f1619~tplv-resize:640:0.png,6199,"[24.18, 17.88]",领克,88,中型SUV,插电式混合动力,2024.04,5年或10万公里
+捷途,捷途X70,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/9f9edd2f1b8f4ff68538900708783c01~tplv-resize:640:0.png,6134,"[16.09, 7.79]",奇瑞汽车,89,中型SUV,汽油,2024.04,4年或10万公里
+零跑汽车,零跑T03,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/464986d3ad5845e9aac85a6960479de0~tplv-resize:640:0.png,6132,"[6.99, 4.99]",零跑汽车,90,微型车,纯电动,2024.03,3年或12万公里
+本田,型格,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bc48ceffe1394c528b45bb3a5042f890~tplv-resize:640:0.png,6000,"[15.19, 9.89]",广汽本田,91,紧凑型车,汽油,2024.03,3年或10万公里
+吉利汽车,博越L,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2feaeea512f442a18ea5a8194a26c29d~tplv-resize:640:0.png,5996,"[14.27, 10.37]",吉利汽车,92,紧凑型SUV,汽油,2024.05,4年或10万公里
+长安启源,长安启源A07,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8a84daad1c4b416aac405f4ec61a2e4c~tplv-resize:640:0.png,5946,"[15.99, 13.59]",长安启源,93,中大型车,纯电动,2024.05,3年或15万公里
+零跑汽车,零跑C11,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/2c5aa014fea141568f6df9bf6a486db0~tplv-resize:640:0.png,5905,"[20.58, 12.78]",零跑汽车,94,中型SUV,增程式,2024.03,4年或12万公里
+现代,伊兰特,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9df2036fdb244307bed69e9e03cf2368~tplv-resize:640:0.png,5896,"[12.18, 7.18]",北京现代,95,紧凑型车,汽油,2023.08,3年或10万公里
+丰田,格瑞维亚,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/dc353aa6c1ef46eda1ea28f39304c725~tplv-resize:640:0.png,5800,"[38.18, 26.48]",一汽丰田,96,中大型MPV,油电混合,2024.04,4年或10万公里
+理想汽车,理想L8,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/df46af6b3ad1439f83d4448cfb729918~tplv-resize:640:0.png,5754,"[37.98, 32.18]",理想汽车,97,中大型SUV,增程式,2024.03,5年或10万公里
+哈弗,哈弗H6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/62328473441241d98a6a623ffe67178f~tplv-resize:640:0.png,5686,"[12.99, 6.14]",长城汽车,98,紧凑型SUV,汽油,2024.06,3年或10万公里
+捷达,捷达VA3,https://p3-dcd.byteimg.com/img/motor-mis-img/f79702d9c2dbaebafe617f329a66b999~tplv-resize:640:0.png,5644,"[9.18, 6.48]",一汽-大众捷达,99,紧凑型车,汽油,2023.12,3年或10万公里
+蔚来,蔚来ET5T,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a03cf015743343d0aa5a45c8b02551c9~tplv-resize:640:0.png,5578,"[35.6, 29.8]",蔚来,100,中型车,纯电动,2024.02,3年或12万公里
+日产,天籁,https://p9-dcd.byteimg.com/img/motor-mis-img/8e074b2ea146302687d68d1e51adfb3c~tplv-resize:640:0.png,5511,"[18.98, 12.98]",东风日产,101,中型车,汽油,2024.04,3年或10万公里
+零跑汽车,零跑C10,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c770aa8bf88c43d586141cc410d497aa~tplv-resize:640:0.png,5470,"[16.88, 12.88]",零跑汽车,102,中型SUV,增程式,2024.03,4年或12万公里
+小鹏汽车,小鹏G6,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/67c41851c96341c19c0461ff9db91911~tplv-resize:640:0.png,5426,"[25.69, 17.99]",小鹏汽车,103,中型SUV,纯电动,2024.04,5年或12万公里
+丰田,丰田bZ3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cbf3ea024efc4e49ad282ed1bdc84cc4~tplv-resize:640:0.png,5381,"[15.98, 12.98]",一汽丰田,104,中型车,纯电动,2024.01,3年或10万公里
+沃尔沃,沃尔沃XC60,https://p3-dcd.byteimg.com/img/motor-mis-img/058f6dd326221149f0f7d23aec62600c~tplv-resize:640:0.png,5356,"[30.9, 27.29]",沃尔沃亚太,105,中型SUV,48V轻混系统,2024.06,3年不限公里
+哪吒汽车,哪吒L,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7c9a57b8f81641d99193dd643992e48f~tplv-resize:640:0.png,5283,"[16.29, 12.99]",合众汽车,106,中型SUV,增程式,2024.04,4年或12万公里
+领克,领克07 EM-P,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a76a8a25a58848549e8de313a4903da4~tplv-resize:640:0.png,5250,"[18.18, 16.18]",领克,107,中型车,插电式混合动力,2024.05,5年或10万公里
+大众,T-ROC探歌,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/854d92c324144a8baf7f4a1229768f5e~tplv-resize:640:0.png,5213,"[13.99, 11.89]",一汽-大众,108,紧凑型SUV,汽油,2024.01,3年或10万公里
+比亚迪,海狮07 EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b69406d5ac524645bf19f945f9887226~tplv-resize:640:0.png,5193,"[23.98, 18.98]",比亚迪,109,中型SUV,纯电动,2024.05,6年或15万公里
+五菱汽车,五菱宏光,https://p3-dcd.byteimg.com/img/motor-mis-img/5e5eb3f0b2e232525d8d7f1d44fa55fb~tplv-resize:640:0.png,5136,"[6.09, 4.65]",上汽通用五菱,110,微面,汽油,2022.07,3年或10万公里
+奥迪,奥迪A3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bed15598b2964894805e3c74db0e7e23~tplv-resize:640:0.png,5113,"[16.33, 13.2]",一汽-大众奥迪,111,紧凑型车,汽油,2023.10,3年或10万公里
+长安启源,长安启源A05,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/90024992da744ec1a944c8bca7fb6a3d~tplv-resize:640:0.png,5041,"[10.99, 7.89]",长安启源,112,紧凑型车,插电式混合动力,2024.04,3年或15万公里
+长安,长安UNI-Z PHEV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b9b0c69241984c2a9a06d1245041668f~tplv-resize:640:0.png,4999,"[13.19, 11.79]",长安汽车,113,紧凑型SUV,插电式混合动力,2024.03,3年或10万公里
+奇瑞,风云T9,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/987f70ca6b3c413da98a13edc41e2ae4~tplv-resize:640:0.png,4990,"[16.99, 12.99]",奇瑞汽车,114,中型SUV,插电式混合动力,2024.05,不限年限/里程(责任免除条款以官方为准)
+别克,别克GL8,https://p3-dcd.byteimg.com/img/motor-mis-img/1b5d71c459535ea55476f5dd7a91be6c~tplv-resize:640:0.png,4962,"[42.89, 19.49]",上汽通用别克,115,中大型MPV,48V轻混系统,2023.02,3年或10万公里
+丰田,亚洲龙,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b47ec0be1ba940aa8e02b93784b6949e~tplv-resize:640:0.png,4890,"[24.48, 14.38]",一汽丰田,116,中型车,汽油,2024.07,3年或10万公里
+大众,途岳,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7af39d3a968446848f32b453d0211164~tplv-resize:640:0.png,4882,"[17.06, 10.99]",上汽大众,117,紧凑型SUV,汽油,2024.03,3年或10万公里
+凯迪拉克,凯迪拉克CT5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/293217d96dd84452b6267df0dd6df9cf~tplv-resize:640:0.png,4817,"[27.17, 20.97]",上汽通用凯迪拉克,118,中型车,汽油,2023.12,3年不限公里
+长安,长安UNI-V,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/16e21ac894654caebd0997e976d3bebf~tplv-resize:640:0.png,4747,"[12.19, 9.69]",长安汽车,119,紧凑型车,汽油,2024.03,3年或10万公里
+丰田,雷凌,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4be933594d45455592d516c912d27b69~tplv-resize:640:0.png,4643,"[10.88, 7.38]",广汽丰田,120,紧凑型车,汽油,2024.03,3年或10万公里
+欧拉,欧拉好猫,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b7dd2877811e486883e29a75d068e916~tplv-resize:640:0.png,4578,"[13.28, 10.28]",长城汽车,121,小型车,纯电动,2024.04,4年或15万公里
+奔驰,奔驰GLB,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/05ab32d0a1b6462fa97ed1ecb0b2b183~tplv-resize:640:0.png,4563,"[24.29, 18.8]",北京奔驰,122,紧凑型SUV,汽油,2023.08,3年不限公里
+大众,凌渡,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/72aad906601447f59df191ebb8522c58~tplv-resize:640:0.png,4561,"[14.89, 10.19]",上汽大众,123,紧凑型车,汽油,2023.08,3年或10万公里
+捷途,捷途山海T2,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/aa7a7ac338c74ce58dc6939b43be91fa~tplv-resize:640:0.png,4556,"[20.99, 17.99]",奇瑞汽车,124,紧凑型SUV,插电式混合动力,2024.04,4年或10万公里
+大众,途昂,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/11058259bf244362a9825e01c0c1d177~tplv-resize:640:0.png,4540,"[32.9, 19.9]",上汽大众,125,中大型SUV,汽油,2023.09,3年或10万公里
+哈弗,哈弗猛龙,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/a9dc9e5ea72d414cb832108cf2404eef~tplv-resize:640:0.png,4465,"[18.88, 13.58]",长城汽车,126,紧凑型SUV,插电式混合动力,2024.04,6年或15万公里
+五菱汽车,五菱星光PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1abac11028e24418a06fdf357476c3dc~tplv-resize:640:0.png,4456,"[10.58, 7.98]",上汽通用五菱,127,紧凑型车,插电式混合动力,2024.04,6年或15万公里
+极氪,ZEEKR 007,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/10b260a927194414be47fa16742262fb~tplv-resize:640:0.png,4316,"[29.99, 20.99]",极氪,128,中型车,纯电动,2024.04,4年或10万公里
+奇瑞,瑞虎9,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/caa1cbaa09cb482696fed72e71514aaa~tplv-resize:640:0.png,4277,"[19.49, 13.79]",奇瑞汽车,129,中型SUV,汽油,2024.04,3年或10万公里
+广汽传祺,传祺M6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f64608b8a07c4434b2bc00a55ecb48b3~tplv-resize:640:0.png,4227,"[14.98, 10.98]",广汽乘用车,130,紧凑型MPV,汽油,2024.05,3年或10万公里
+长安启源,长安启源Q05,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d89973a091064602a82752ce8274ef5a~tplv-resize:640:0.png,4196,"[11.39, 9.19]",长安启源,131,紧凑型SUV,插电式混合动力,2023.12,3年或15万公里
+iCAR,iCAR 03,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/82dbd5e3acb94713afb3cb4da2dfaa68~tplv-resize:640:0.png,4195,"[16.98, 10.98]",奇瑞新能源,132,紧凑型SUV,纯电动,2024.02,4年或12万公里
+丰田,皇冠陆放,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6a54e46c78d64ba591d90dcaeeef96d7~tplv-resize:640:0.png,4190,"[29.48, 21.98]",一汽丰田,133,中型SUV,油电混合,2024.05,3年或10万公里
+本田,英仕派,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/068adb9f4c04421fae8d8a372bc5cf0e~tplv-resize:640:0.png,3975,"[17.78, 13.08]",东风本田,141,中型车,汽油,2024.04,3年或10万公里
+北京,北京BJ30,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/448e361c30114bf38bc4f1c09495a63f~tplv-resize:640:0.png,3947,"[13.69, 9.99]",北京汽车,142,紧凑型SUV,汽油,2024.05,5年或15万公里
+领克,领克03,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/496f813bab0e479cb6484b656f93e1d8~tplv-resize:640:0.png,3930,"[42.03, 11.18]",领克,143,紧凑型车,油电混合,2022.09,4年或10万公里
+领克,领克06,https://p3-dcd.byteimg.com/img/motor-mis-img/189c2b11c6396ed5c63d9db5a57e6341~tplv-resize:640:0.png,3863,"[11.96, 10.96]",领克,144,小型SUV,汽油,2022.09,4年或10万公里
+东风风神,风神L7 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/810ea03ad55e4827938121276962fb85~tplv-resize:640:0.png,3816,"[15.69, 12.49]",东风乘用车,145,紧凑型SUV,插电式混合动力,2024.04,10年不限里程(责任免除条款以官方为准）
+北京,北京BJ40,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3a8235032015497c9b815308b121c4ba~tplv-resize:640:0.png,3749,"[26.99, 13.98]",北京汽车,146,紧凑型SUV,汽油,2023.11,5年或15万公里
+ARCFOX极狐,极狐 阿尔法T5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/67e354e4850c48c4bd343e14d2fac9c5~tplv-resize:640:0.png,3702,"[16.8, 12.4]",北汽新能源,147,中型SUV,纯电动,2023.12,3年或12万公里
+长安欧尚,长安欧尚X5 PLUS,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/a4616746e0c748508ba07e1c3909e58f~tplv-resize:640:0.png,3691,"[9.49, 7.19]",长安汽车,148,紧凑型SUV,汽油,2023.04,3年或10万公里
+别克,昂科威,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e47a47ed27c24ca5ba2330559c6dd73a~tplv-resize:640:0.png,3672,"[24.09, 15.69]",上汽通用别克,149,中型SUV,48V轻混系统,2024.03,3年或10万公里
+智己汽车,智己L6,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/aa0d805e20f84922b25399f4d0af94c6~tplv-resize:640:0.png,3623,"[32.59, 20.49]",智己汽车,150,中大型车,纯电动,2024.05,5年或15万公里
+奇瑞,瑞虎7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e8e158030a88406daaa7c7466c5f27ed~tplv-resize:640:0.png,3558,"[13.99, 6.99]",奇瑞汽车,151,紧凑型SUV,汽油,2024.05,3年或10万公里
+奔驰,奔驰A级,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f3aa2146a74d47e3ab4844b147234e37~tplv-resize:640:0.png,3518,"[16.57, 15.08]",北京奔驰,152,紧凑型车,汽油,2024.03,3年不限公里
+坦克,坦克500 Hi4-T,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d1d12a60d3544b438485a8e392d5b40f~tplv-resize:640:0.png,3417,"[33.5, 33.5]",长城汽车,153,中大型SUV,插电式混合动力,2023.06,5年或15万公里
+奔腾,奔腾B70,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/39774d70f0c445a88fa3a332502c53e3~tplv-resize:640:0.png,3353,"[11.39, 7.59]",一汽奔腾,154,中型车,汽油,2024.04,3年或10万公里
+比亚迪,宋L EV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/2e28737a95cd4a9aba1b33c6bee37d69~tplv-resize:640:0.png,3283,"[24.98, 18.98]",比亚迪,155,中型SUV,纯电动,2023.12,6年或15万公里
+广汽传祺,传祺GS3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a3e0987f48e44deb8709e776e4131cd7~tplv-resize:640:0.png,3267,"[9.98, 6.98]",广汽乘用车,156,小型SUV,汽油,2023.03,3年或10万公里
+捷达,捷达VS5,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5c03f20ae4d540638d295c0636a0d4c5~tplv-resize:640:0.png,3258,"[10.69, 6.96]",一汽-大众捷达,157,紧凑型SUV,汽油,2024.04,3年或10万公里
+ARCFOX极狐,极狐 考拉,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/61a295098a194091a94639d40b5c10a6~tplv-resize:640:0.png,3250,"[15.88, 11.98]",北汽新能源,158,紧凑型MPV,纯电动,2023.09,5年或12万公里
+大众,探影,https://p3-dcd.byteimg.com/img/motor-mis-img/1f13ff8a44ab52143390f45ff0a7b8b5~tplv-resize:640:0.png,3198,"[12.89, 8.39]",一汽-大众,159,小型SUV,汽油,2023.09,3年或10万公里
+奥迪,奥迪Q3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1c04470ca1254ad18552cabef768699e~tplv-resize:640:0.png,3121,"[21.83, 18.18]",一汽-大众奥迪,160,紧凑型SUV,汽油,2023.08,3年或10万公里
+东风风神,皓瀚,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7a07d88623a346058756af5631710351~tplv-resize:640:0.png,3102,"[12.19, 8.69]",东风乘用车,161,紧凑型SUV,汽油,2024.03,3年或10万公里
+吉利银河,银河E8,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/de6b6d01181f4d3abb49d483614254cc~tplv-resize:640:0.png,3077,"[22.38, 16.08]",吉利银河,162,中大型车,纯电动,2024.04,6年或15万公里
+别克,君威,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/65ca9a0988cf45e29d3c04aca829f355~tplv-resize:640:0.png,3004,"[19.48, 10.98]",上汽通用别克,163,中型车,汽油,2023.07,3年或10万公里
+马自达,马自达3 昂克赛拉,https://p3-dcd.byteimg.com/img/motor-mis-img/2ed9950bbf60e473727cf3735528e032~tplv-resize:640:0.png,2998,"[17.99, 8.79]",长安马自达,164,紧凑型车,汽油,2023.07,3年或10万公里
+长安,长安CS55 PLUS,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8727a564bae045058a6c89a8395c2612~tplv-resize:640:0.png,2988,"[11.39, 7.79]",长安汽车,165,紧凑型SUV,汽油,2023.09,3年或10万公里
+蔚来,蔚来ET5,https://p3-dcd.byteimg.com/img/motor-mis-img/6b3472130dfd56454f65df80d9f461f6~tplv-resize:640:0.png,2979,"[35.6, 29.8]",蔚来,166,中型车,纯电动,2024.02,3年或12万公里
+奥迪,奥迪A7L,https://p3-dcd.byteimg.com/img/motor-mis-img/2d8a5201cffa633101a59b71d00fafef~tplv-resize:640:0.png,2951,"[60.22, 37.87]",上汽奥迪,167,中大型车,汽油,2024.03,3年或10万公里
+五菱汽车,五菱星光EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cc1819763a5a447c919bf9faef26a93c~tplv-resize:640:0.png,2929,"[10.98, 9.98]",上汽通用五菱,168,紧凑型车,纯电动,2024.04,6年或15万公里
+岚图,岚图梦想家 PHEV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/a34b5cd70b954cb1abb155118d94e8a4~tplv-resize:640:0.png,2926,"[63.99, 30.99]",岚图汽车,169,中大型MPV,插电式混合动力,2023.10,5年或10万公里
+现代,途胜,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f2f194412c334188ace3731595a91729~tplv-resize:640:0.png,2780,"[19.08, 12.68]",北京现代,170,紧凑型SUV,汽油,2022.11,可选:3年或15万公里/5年或10万公里/7年或7万公里
+捷途,捷途X90,https://p3-dcd.byteimg.com/img/motor-mis-img/db9398d99c107b4ee74543a8fa39cc8a~tplv-resize:640:0.png,2777,"[16.29, 12.99]",奇瑞汽车,171,中型SUV,汽油,2022.11,4年或10万公里
+大众,ID.4 X,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d16a58d2e5694b7b84ba28604a6421e0~tplv-resize:640:0.png,2760,"[22.34, 14.98]",上汽大众,172,紧凑型SUV,纯电动,2024.07,3年或10万公里
+本田,奥德赛,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/77ceb3fa8b664dfd8457a5b57ef84042~tplv-resize:640:0.png,2740,"[39.48, 19.28]",广汽本田,173,中型MPV,油电混合,2023.06,3年或10万公里
+大众,高尔夫,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4fc088b811b34649b7293e1446212e1f~tplv-resize:640:0.png,2706,"[20.78, 12.78]",一汽-大众,174,紧凑型车,汽油,2024.07,3年或10万公里
+方程豹,豹5,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5c4dd30eca44470a917d366c05db05b5~tplv-resize:640:0.png,2680,"[30.28, 23.98]",方程豹,175,中型SUV,插电式混合动力,2024.04,6年或15万公里
+大众,揽巡,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8c9d9e77cdf5462a86c515692b23c0e7~tplv-resize:640:0.png,2670,"[26.59, 20.09]",一汽-大众,176,中大型SUV,汽油,2024.06,3年或10万公里
+红旗,红旗HS3,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/130d0777d22c4e7aba7791c0ee645462~tplv-resize:640:0.png,2653,"[17.08, 12.08]",一汽红旗,177,紧凑型SUV,汽油,2023.07,4年或10万公里
+长安欧尚,长安欧尚Z6,https://p3-dcd.byteimg.com/img/motor-mis-img/252d100a630cf9298e8d357fe7ee8ffc~tplv-resize:640:0.png,2574,"[12.09, 8.69]",长安汽车,178,紧凑型SUV,汽油,2023.06,3年或10万公里
+奔腾,奔腾NAT,https://p3-dcd.byteimg.com/img/motor-mis-img/86e59b68321279091b353bb89ec0d411~tplv-resize:640:0.png,2489,"[16.48, 14.98]",一汽奔腾,179,紧凑型MPV,纯电动,2023.02,3年或30万公里
+奇瑞,探索06,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/93b15f0f1967433faca5cac4ef9289cd~tplv-resize:640:0.png,2485,"[14.49, 10.19]",奇瑞汽车,180,紧凑型SUV,汽油,2024.04,3年或10万公里
+沃尔沃,沃尔沃S90,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d0dcc7887fa74d1bb726f006f313adb2~tplv-resize:640:0.png,2485,"[36.3, 29.85]",沃尔沃亚太,181,中大型车,48V轻混系统,2024.06,3年不限公里
+蔚来,蔚来EC6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e3362ddc7fbb4a13a303fc940c09d0fe~tplv-resize:640:0.png,2481,"[41.6, 35.8]",蔚来,182,中型SUV,纯电动,2024.02,3年或12万公里
+东风奕派,eπ007,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/800b755e8da547419991b18a5767796c~tplv-resize:640:0.png,2426,"[16.96, 13.66]",东风乘用车,183,中大型车,增程式,2024.02,3年或10万公里
+广汽传祺,传祺GS4,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3a5e2422597647f882593d68647ec164~tplv-resize:640:0.png,2414,"[11.68, 10.08]",广汽乘用车,184,紧凑型SUV,汽油,2024.04,3年或10万公里
+广汽传祺,传祺E8 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6a36b18458d54bbcb9273c6aed5a7171~tplv-resize:640:0.png,2391,"[23.58, 20.98]",广汽乘用车,185,中型MPV,插电式混合动力,2023.11,3年或10万公里
+本田,本田HR-V,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/24baeca15ca34c83a4e9ceaf09de58ea~tplv-resize:640:0.png,2389,"[18.59, 11.99]",东风本田,186,紧凑型SUV,汽油,2024.04,3年或10万公里
+吉利汽车,博越,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c591393097534aa39a6e665dbf35d86b~tplv-resize:640:0.png,2372,"[11.38, 7.98]",吉利汽车,187,紧凑型SUV,汽油,2024.06,4年或10万公里
+捷途,捷途大圣,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e467ab987a9c4bf7930b0af3ad27c9f6~tplv-resize:640:0.png,2362,"[11.99, 8.49]",奇瑞汽车,188,紧凑型SUV,汽油,2024.04,4年或10万公里
+奇瑞,风云A8,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0b64ed1738ea4ac7ba2d7578b79d585c~tplv-resize:640:0.png,2356,"[12.99, 9.99]",奇瑞汽车,189,紧凑型车,插电式混合动力,2024.01,3年或10万公里
+智界,智界S7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0e17f8fdf5994a98aab29bf74279e0bf~tplv-resize:640:0.png,2306,"[34.98, 24.98]",智界汽车,190,中大型车,纯电动,2024.04,4年或10万公里
+福特,锐界,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cad5d4e17ca14279b93666d6e3164c3d~tplv-resize:640:0.png,2294,"[29.18, 21.18]",长安福特,191,中型SUV,汽油,2024.04,3年或10万公里
+雪佛兰,科鲁泽,https://p3-dcd.byteimg.com/img/motor-mis-img/f63e0947469ae2d9cee05bbdc33f514f~tplv-resize:640:0.png,2286,"[7.09, 5.69]",上汽通用雪佛兰,192,紧凑型车,汽油,2023.06,3年或10万公里
+名爵,MG5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d6a56e2049ac4b208d49d4f02f2916c3~tplv-resize:640:0.png,2270,"[8.59, 5.39]",上汽集团,193,紧凑型车,汽油,2023.05,3年或10万公里
+日产,奇骏,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5ae572c93a99402d89bab23657b64d6e~tplv-resize:640:0.png,2255,"[20.29, 11.99]",东风日产,194,紧凑型SUV,汽油,2023.09,3年或10万公里
+东风纳米,纳米01,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/41f1b82ed40042a88bf6c8de6cddbf9f~tplv-resize:640:0.png,2251,"[10.18, 6.98]",东风汽车,195,小型车,纯电动,2024.01,3年不限里程
+smart,smart精灵#1,https://p9-dcd.byteimg.com/img/motor-mis-img/d3dc084ea15c3a5ddb79094343132daa~tplv-resize:640:0.png,2245,"[25.49, 15.49]",smart,196,小型SUV,纯电动,2024.04,4年或15万公里
+吉利汽车,缤瑞,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9ce764ca8f1a48a0890408952f1ad593~tplv-resize:640:0.png,2220,"[8.78, 7.48]",吉利汽车,197,紧凑型车,汽油,2023.08,4年或10万公里
+小鹏汽车,小鹏G9,https://p9-dcd.byteimg.com/img/motor-mis-img/57c7fd76817fb6148dce372c42acc18c~tplv-resize:640:0.png,2190,"[33.99, 24.39]",小鹏汽车,198,中大型SUV,纯电动,2023.09,5年或12万公里
+林肯,航海家,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/db4c45d357eb479ca8ba4ed41f93fc5e~tplv-resize:640:0.png,2179,"[44.38, 30.38]",长安林肯,199,中型SUV,汽油,2023.04,5年或14万公里
+蓝电,蓝电E5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a85640b7405f4d3889bc55d63edbd0c8~tplv-resize:640:0.png,2173,"[12.18, 9.98]",赛力斯蓝电汽车,200,中型SUV,插电式混合动力,2024.04,6年或15万公里
+奇瑞,艾瑞泽5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/aef5212cbadd4c05a9c450eaed0813e1~tplv-resize:640:0.png,2135,"[6.89, 5.29]",奇瑞汽车,201,紧凑型车,汽油,2023.10,3年或10万公里
+大众,大众CC,https://p3-dcd.byteimg.com/img/motor-mis-img/bc1a1cfcace04020b804932bd5c78749~tplv-resize:640:0.png,2105,"[23.79, 18.49]",一汽-大众,202,中型车,汽油,2024.07,3年或10万公里
+比亚迪,比亚迪e2,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b8781cd4b8d749f997db471d7ee5b563~tplv-resize:640:0.png,2091,"[14.78, 8.98]",比亚迪,203,紧凑型车,纯电动,2024.03,6年或15万公里
+腾势,腾势N7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/64c39c89935142829cfe0ca295dc9538~tplv-resize:640:0.png,2089,"[32.98, 23.98]",腾势汽车,204,中型SUV,纯电动,2024.04,6年或15万公里
+奇瑞新能源,QQ冰淇淋,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b949ba428bc143aeb2bcfdef93eb7f61~tplv-resize:640:0.png,2074,"[5.69, 2.99]",奇瑞新能源,205,微型车,纯电动,2024.04,3年或10万公里
+智己汽车,智己LS6,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/1d808aff9bfd4dfa9ab5f7296c7c4544~tplv-resize:640:0.png,2013,"[28.19, 20.99]",智己汽车,206,中大型SUV,纯电动,2023.10,5年或15万公里
+五菱汽车,五菱荣光,https://p3-dcd.byteimg.com/img/motor-mis-img/efe0d84f810fe914c7149c51a6c1658e~tplv-resize:640:0.png,2010,"[4.755, 4.09]",上汽通用五菱,207,微面,汽油,2023.04,3年或6万公里
+吉利汽车,豪越L,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/35f4fe1d9d7240879696d2d7774573d5~tplv-resize:640:0.png,2009,"[13.29, 11.29]",吉利汽车,208,中型SUV,汽油,2023.11,4年或10万公里
+丰田,威飒,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/97f0b1f0d49d4d95845a17fda2bf026e~tplv-resize:640:0.png,1969,"[26.88, 17.68]",广汽丰田,209,中型SUV,汽油,2024.06,3年或10万公里
+阿维塔,阿维塔 12,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9f103ca925eb42b0af887cc4011f7193~tplv-resize:640:0.png,1959,"[37.88, 26.58]",阿维塔科技,210,中大型车,纯电动,2024.03,5年或12万公里
+岚图,岚图FREE,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/35252dbdd8d34ef7aacde273feaf5073~tplv-resize:640:0.png,1939,"[24.79, 21.99]",岚图汽车,211,中大型SUV,增程式,2024.06,5年或10万公里
+吉利几何,吉利几何E萤火虫,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ab171bed6a464941a57445172e7bf752~tplv-resize:640:0.png,1916,"[8.08, 5.98]",吉利几何,212,小型SUV,纯电动,2024.03,4年或10万公里
+魏牌,蓝山,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d81ba06d1efb4049a67bd2fd3b4e7f03~tplv-resize:640:0.png,1902,"[30.88, 27.38]",长城汽车,213,中大型SUV,插电式混合动力,2023.04,5年或15万公里
+长安欧尚,长安欧尚X7 PLUS,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/792f6cb783e54f76b76081f54eb719ad~tplv-resize:640:0.png,1871,"[11.99, 6.59]",长安汽车,214,紧凑型SUV,汽油,2023.04,3年或10万公里
+广汽传祺,传祺GS8,https://p3-dcd.byteimg.com/img/motor-mis-img/bef1e4e3b0a6fa8de3a3887dcaaad449~tplv-resize:640:0.png,1849,"[25.98, 15.68]",广汽乘用车,215,中型SUV,汽油,2024.05,5年或15万公里
+五菱汽车,五菱佳辰,https://p3-dcd.byteimg.com/img/motor-mis-img/1d111f4c68dbfde0d1fd3c455a3a2db7~tplv-resize:640:0.png,1779,"[11.58, 6.88]",上汽通用五菱,216,紧凑型MPV,油电混合,2023.06,3年或10万公里
+东风风神,奕炫,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f2597be887af41fdb6174c3200a98d2c~tplv-resize:640:0.png,1777,"[9.39, 5.79]",东风乘用车,217,紧凑型车,汽油,2024.01,3年或10万公里
+奔腾,奔腾小马,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/be315b47d3bc4f28bad76776cebc25c4~tplv-resize:640:0.png,1764,"[3.19, 2.49]",一汽奔腾,218,微型车,纯电动,2024.08,3年或10万公里
+马自达,马自达CX-5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cd0afa2cba3f4fba8cfdac2c4417a60b~tplv-resize:640:0.png,1755,"[18.98, 11.58]",长安马自达,219,紧凑型SUV,汽油,2023.09,3年或10万公里
+本田,艾力绅,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d874253ddcab4fbeac2e52354f3d9e62~tplv-resize:640:0.png,1730,"[27.68, 22.48]",东风本田,220,中型MPV,油电混合,2023.07,3年或10万公里
+零跑汽车,零跑C01,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7f0665963c5840f1b242d1f14a6e970c~tplv-resize:640:0.png,1720,"[15.88, 13.68]",零跑汽车,221,中大型车,纯电动,2024.03,4年或12万公里
+宝马,宝马iX1,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/95a97101ab9a485e88774be29273a9ea~tplv-resize:640:0.png,1708,"[22.49, 18.49]",华晨宝马,222,紧凑型SUV,纯电动,2023.08,3年或10万公里
+小鹏汽车,小鹏X9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/dea281f2400b459897787fc584c29832~tplv-resize:640:0.png,1687,"[41.97, 35.97]",小鹏汽车,223,中大型MPV,纯电动,2024.01,5年或12万公里
+埃安,AION V,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/614a4621253c4dc798362d4a8600376e~tplv-resize:640:0.png,1680,"[18.98, 12.98]",广汽埃安新能源,224,紧凑型SUV,纯电动,2024.07,4年或15万公里
+广汽传祺,影豹,https://p3-dcd.byteimg.com/img/motor-mis-img/d0be756edf1c5cf4c9e6552497309e85~tplv-resize:640:0.png,1671,"[15.5, 9.6]",广汽乘用车,225,紧凑型车,汽油,2024.05,3年或10万公里
+沃尔沃,沃尔沃S60,https://p3-dcd.byteimg.com/img/motor-mis-img/917e910a69010277adf7b04033758613~tplv-resize:640:0.png,1671,"[26.81, 19.9]",沃尔沃亚太,226,中型车,48V轻混系统,2024.06,3年不限公里
+名爵,MG7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b0f952ca6faf46b1bb0fc809ab964a49~tplv-resize:640:0.png,1667,"[16.38, 11.38]",上汽集团,227,中型车,汽油,2023.03,3年或10万公里
+SRM鑫源,金海狮,https://p3-dcd.byteimg.com/img/motor-mis-img/420edba187de7d68b797455324ccd5af~tplv-resize:640:0.png,1636,"[10.59, 6.09]",鑫源汽车,228,微面,汽油,2023.09,2年或10万公里
+奔驰,威霆,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e7346a1cf2bb49f38ca79f8dadc50b76~tplv-resize:640:0.png,1632,"[26.48, 23.38]",福建奔驰,229,中大型MPV,汽油,2023.05,3年或6万公里
+凯迪拉克,凯迪拉克XT5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/34121f151dfa4523a4d827d0d3ea7a3e~tplv-resize:640:0.png,1617,"[33.87, 23.87]",上汽通用凯迪拉克,230,中型SUV,48V轻混系统,2023.09,3年不限公里
+沃尔沃,沃尔沃XC40,https://p9-dcd.byteimg.com/img/motor-mis-img/6a1caf1b4b697cab56088b3ebb92180c~tplv-resize:640:0.png,1610,"[26.5, 18.5]",沃尔沃亚太,231,紧凑型SUV,48V轻混系统,2024.06,3年不限公里
+别克,君越,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d46a7ee58b8a41ac8a6872614bd23172~tplv-resize:640:0.png,1609,"[19.73, 13.73]",上汽通用别克,232,中型车,48V轻混系统,2024.04,3年或10万公里
+坦克,坦克700 Hi4-T,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/dba086fd7b2f4b1ebf8b104dc26331c3~tplv-resize:640:0.png,1606,"[70, 42.8]",长城汽车,233,中大型SUV,插电式混合动力,2024.02,5年或15万公里
+吉利几何,吉利几何A,https://p3-dcd.byteimg.com/img/motor-mis-img/ef638ed8ed491bd5bb2a12337d91faa9~tplv-resize:640:0.png,1574,"[18.38, 11.08]",吉利几何,234,紧凑型车,纯电动,2023.08,4年或15万公里
+现代,现代ix35,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/4759d1d531d7489dbb01a2bad3506c6b~tplv-resize:640:0.png,1574,"[14.58, 9.98]",北京现代,235,紧凑型SUV,汽油,2023.06,可选：5年或10万公里/7年或7万公里/3年或15万公里
+东风风神,东风风神E70,https://p9-dcd.byteimg.com/img/motor-mis-img/3645e5106165def002a7ab1f2300c71c~tplv-resize:640:0.png,1572,"[15.38, 14.28]",东风乘用车,236,紧凑型车,纯电动,2023.03,3年或30万公里
+大众,揽境,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bf37b7018ff14ebd9f55a164daa4e2c4~tplv-resize:640:0.png,1555,"[31.99, 21.69]",一汽-大众,237,中大型SUV,汽油,2024.06,3年或10万公里
+哪吒汽车,哪吒X,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ce9a2157eb844cfe81d8020bdbe80f9d~tplv-resize:640:0.png,1542,"[12.48, 8.98]",合众汽车,238,紧凑型SUV,纯电动,2024.08,4年或12万公里
+福特,探险者,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/31302546ff654c8cb31296e9b85fe510~tplv-resize:640:0.png,1505,"[39.98, 29.98]",长安福特,239,中大型SUV,汽油,2022.09,3年或10万公里
+荣威,荣威i5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3deaa243484f4c34a254b5c212a8ad7a~tplv-resize:640:0.png,1494,"[7.29, 5.09]",上汽集团,240,紧凑型车,汽油,2023.07,4年或15万公里
+北京汽车,北京EU5,https://p9-dcd.byteimg.com/img/motor-mis-img/fac9641308c9c3c9b23765bdcbdd6697~tplv-resize:640:0.png,1491,"[17.19, 12.99]",北京汽车,241,紧凑型车,纯电动,2022.09,3年或12万公里
+领克,领克06 EM-P,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0b14beda740d47ea8db4e20cec55f377~tplv-resize:640:0.png,1330,"[14.28, 12.28]",领克,251,小型SUV,插电式混合动力,2023.11,5年或10万公里
+奥迪,奥迪Q4 e-tron,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1830284b40ab4b27b72d12c96c731e08~tplv-resize:640:0.png,1301,"[25.33, 20]",一汽-大众奥迪,252,紧凑型SUV,纯电动,2023.11,3年或10万公里
+比亚迪,唐EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0e4eb3c18a9b4970b9fb9102879d383a~tplv-resize:640:0.png,1300,"[26.98, 21.98]",比亚迪,253,中型SUV,纯电动,2024.04,6年或15万公里
+五菱汽车,五菱星驰,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8aeb5f1c39fe4c509540e272edfac572~tplv-resize:640:0.png,1295,"[8.68, 5.68]",上汽通用五菱,254,小型SUV,汽油,2023.04,3年或10万公里
+宝骏,云朵,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f7956c20545c4c87ba29f4b30e6caaf9~tplv-resize:640:0.png,1267,"[14.58, 9.58]",上汽通用五菱,255,紧凑型车,纯电动,2023.08,3年或10万公里
+起亚,起亚K3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/472cba0cc0a54bd6aca66872589b2e1d~tplv-resize:640:0.png,1265,"[12.49, 8.29]",起亚,256,紧凑型车,汽油,2024.02,3年或10万公里
+启辰,启辰VX6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/de8d87c33dcb4bcbb18ea3db22b8462c~tplv-resize:640:0.png,1263,"[14.59, 12.89]",东风日产,257,紧凑型SUV,纯电动,2023.11,6年或15万公里
+哈弗,哈弗M6,https://p9-dcd.byteimg.com/img/motor-mis-img/3318a942828459ec7ce8bd81f8e187d9~tplv-resize:640:0.png,1243,"[6.69, 4.59]",长城汽车,258,紧凑型SUV,汽油,2023.03,3年或10万公里
+福特,领睿,https://p3-dcd.byteimg.com/img/motor-mis-img/2e84d7b827ee1d79eea53e9aec7ff9de~tplv-resize:640:0.png,1222,"[12.98, 8.68]",江铃福特,259,中型SUV,汽油,2023.08,3年或10万公里
+现代,索纳塔,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9d6d54839e6846ef9a26c1c66cc68d61~tplv-resize:640:0.png,1215,"[17.98, 13.28]",北京现代,260,中型车,汽油,2024.03,可选：3年或15万公里/5年或10万公里/7年或7万公里
+星途,星途瑶光,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fe5ba41003f242d994ad0722c4a9e34a~tplv-resize:640:0.png,1174,"[18.68, 13.28]",星途,261,中型SUV,汽油,2024.07,3年或10万公里
+长安,长安CS35 PLUS,https://p3-dcd.byteimg.com/img/motor-mis-img/810127c3c51f072dd2ea70a1a5aa09db~tplv-resize:640:0.png,1155,"[8.19, 6.99]",长安汽车,262,小型SUV,汽油,2023.09,3年或10万公里
+启辰,启辰D60 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/9defc15eb235673157d66da8cbba5273~tplv-resize:640:0.png,1153,"[13.78, 12.98]",东风日产,263,紧凑型车,纯电动,2022.10,3年或12万公里
+日产,骐达TIIDA,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c2bc63fa5a1142b9aba74bf02210d1cc~tplv-resize:640:0.png,1153,"[10.59, 7.99]",东风日产,264,紧凑型车,汽油,2023.08,3年或10万公里
+长安欧尚,长安欧尚Z6 iDD新能源,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/9d2a56308a184ed89115a0b35d840d2e~tplv-resize:640:0.png,1135,"[14.58, 12.58]",长安汽车,265,紧凑型SUV,插电式混合动力,2023.06,3年或12万公里
+宝马,宝马iX3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/39eb11e1ba734c17b6a5b4c9762123ff~tplv-resize:640:0.png,1135,"[26.7, 23.7]",华晨宝马,266,中型SUV,纯电动,2024.01,3年或10万公里
+大众,Polo,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a6ee19f8cb8b4ad8bab7f2b3cb0e4fa1~tplv-resize:640:0.png,1121,"[10.49, 7.09]",上汽大众,267,小型车,汽油,2023.05,3年或10万公里
+比亚迪,护卫舰07,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/25da945746f842dbac9e8ec9d481fb6e~tplv-resize:640:0.png,1115,"[25.28, 16.98]",比亚迪,268,中型SUV,插电式混合动力,2024.03,6年或15万公里
+捷达,捷达VS7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/de7a72b2eda044a7aaeff1eca92504c1~tplv-resize:640:0.png,1109,"[12.19, 8.79]",一汽-大众捷达,269,中型SUV,汽油,2024.04,3年或10万公里
+林肯,林肯Z,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/a0ec714df18440fa98cb7ce39a6d5213~tplv-resize:640:0.png,1102,"[34.38, 21.38]",长安林肯,270,中型车,汽油,2024.03,5年或14万公里
+起亚,狮铂拓界,https://p3-dcd.byteimg.com/img/motor-mis-img/64635680904a46d6cc34230eaf9a9552~tplv-resize:640:0.png,1093,"[18.98, 13.18]",起亚,271,紧凑型SUV,汽油,2022.11,5年或10万公里
+丰田,凌放HARRIER,https://p9-dcd.byteimg.com/img/motor-mis-img/b797413d40370e0efc7a2dfa9b5e9cf7~tplv-resize:640:0.png,1075,"[25.88, 17.18]",一汽丰田,272,中型SUV,汽油,2023.05,3年或10万公里
+蔚来,蔚来ET7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/044f2a2afda542c68162110525721908~tplv-resize:640:0.png,1071,"[51.6, 42.8]",蔚来,273,中大型车,纯电动,2024.04,3年或12万公里
+领克,领克09 EM-P,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f29a0b794aff4900a5d45b49a9a667e3~tplv-resize:640:0.png,1063,"[33.29, 27.48]",领克,274,中大型SUV,插电式混合动力,2024.01,5年或10万公里
+启辰,启辰D60,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/19edcae930eb41e6995bb85e5ae1dea3~tplv-resize:640:0.png,1062,"[7.76, 6.66]",东风日产,275,紧凑型车,汽油,2023.02,3年或10万公里
+五菱汽车,五菱星辰,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e365b62932e14542987c0ec29e807693~tplv-resize:640:0.png,1040,"[10.98, 6.88]",上汽通用五菱,276,紧凑型SUV,油电混合,2022.08,3年或10万公里
+东风风行,风行星海V9,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/fe4bf78eb9a443228981a116995fb7b6~tplv-resize:640:0.png,1035,"[27.99, 19.99]",东风风行,277,中大型MPV,插电式混合动力,2024.06,8年或16万公里
+东风风行,菱智,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1b4c5e581271490ab064442a9188b466~tplv-resize:640:0.png,1035,"[9.99, 5.99]",东风风行,278,中型MPV,汽油,2023.09,5年或10万公里
+小鹏汽车,小鹏P7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/008ce8adb1ad4b24acfb8fade865172a~tplv-resize:640:0.png,1030,"[26.49, 19.39]",小鹏汽车,279,中型车,纯电动,2023.11,5年或12万公里
+阿维塔,阿维塔 11,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/83e370fa77b64c78a65c707b76b7415c~tplv-resize:640:0.png,1018,"[38.58, 29.58]",阿维塔科技,280,中大型SUV,纯电动,2024.04,5年或12万公里
+东风奕派,eπ008,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/03f8bbc977b94d8e8b4a0ff935844d82~tplv-resize:640:0.png,1016,"[19.36, 18.86]",东风乘用车,281,中大型SUV,增程式,2024.06,3年或10万公里
+广汽传祺,传祺E9 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3da48c68376e4e158a93ba1e44310602~tplv-resize:640:0.png,1004,"[40.98, 31.98]",广汽乘用车,282,中大型MPV,插电式混合动力,2024.04,3年或10万公里
+奔驰,奔驰V级,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bb1047767b9e4323bf91566259a5cb03~tplv-resize:640:0.png,996,"[48.68, 32.88]",福建奔驰,283,中大型MPV,汽油,2022.12,3年或6万公里
+长安,长安UNI-K,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/458c4ef6b652476e8519de66e0912a74~tplv-resize:640:0.png,995,"[15.99, 12.99]",长安汽车,284,中型SUV,汽油,2023.11,3年或10万公里
+江铃集团新能源,小麒麟,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d13f128f45534d52b3ea09b9214b96b2~tplv-resize:640:0.png,992,"[5.89, 4.99]",江铃集团新能源,285,微型车,纯电动,2023.08,3年或6万公里
+荣威,荣威RX5,https://p3-dcd.byteimg.com/img/motor-mis-img/50e4ec0931df36a7ac8c841a023e5a60~tplv-resize:640:0.png,992,"[13.09, 7.49]",上汽集团,286,紧凑型SUV,汽油,2022.08,3年或10万公里
+捷途,捷途山海L9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b9e5ca8991bf4b4e958169de5c91d192~tplv-resize:640:0.png,990,"[18.09, 15.89]",奇瑞汽车,287,中型SUV,插电式混合动力,2023.11,4年或10万公里
+宝马,宝马i5,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/1081a6e139924a17a8a06e5a92353e23~tplv-resize:640:0.png,986,"[34.59, 31.99]",华晨宝马,288,中大型车,纯电动,2024.01,3年或10万公里
+现代,库斯途,https://p3-dcd.byteimg.com/img/motor-mis-img/b8003b7e07498026bae4c0eef2ac8b4f~tplv-resize:640:0.png,983,"[19.88, 14.98]",北京现代,289,中大型MPV,汽油,2022.05,5年或10万公里
+奇瑞,瑞虎5x,https://p3-dcd.byteimg.com/img/motor-mis-img/bf49fad02231fbc7c729f23640775a75~tplv-resize:640:0.png,973,"[10.19, 5.59]",奇瑞汽车,290,小型SUV,汽油,2024.04,3年或10万公里
+大运,远志M1,https://p3-dcd.byteimg.com/img/motor-mis-img/1391df865bb70731fc6a7ad8cce7f124~tplv-resize:640:0.png,968,"[31.88, 16.38]",大运汽车,291,中型MPV,纯电动,2024.05,3年或12万公里
+本田,飞度,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/b904c6bfc5094657bbcad15af499fd16~tplv-resize:640:0.png,961,"[9.68, 7.48]",广汽本田,292,小型车,汽油,2024.03,3年或10万公里
+路虎,发现运动版,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/42df37a2a1d24acdb11be0f719bd8502~tplv-resize:640:0.png,929,"[29.8, 23.4]",奇瑞捷豹路虎,293,中型SUV,48V轻混系统,2024.07,3年或10万公里
+标致,标致408,https://p3-dcd.byteimg.com/img/motor-mis-img/e734863947662cd987a9be96b479f828~tplv-resize:640:0.png,929,"[10.67, 8.67]",东风标致,294,紧凑型车,汽油,2024.03,5年或15万公里
+荣威,荣威D7 EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/279198c170654088bb304d89cfc3d72f~tplv-resize:640:0.png,915,"[20.08, 12.98]",上汽集团,295,中型车,纯电动,2024.03,6年或15万公里
+别克,世纪,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c5b214e5d3fa4fa89c233743b464e318~tplv-resize:640:0.png,914,"[67.99, 45.99]",上汽通用别克,296,中大型MPV,48V轻混系统,2023.08,3年或10万公里
+大众,威然,https://p3-dcd.byteimg.com/img/motor-mis-img/5dc411ad7f5c2d9d8d69255c864cfded~tplv-resize:640:0.png,880,"[34.28, 23.48]",上汽大众,301,中大型MPV,汽油,2023.08,3年或10万公里
+林肯,冒险家,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/9d39599a71b34b279c96d02bff066c3d~tplv-resize:640:0.png,880,"[32.58, 21.58]",长安林肯,302,紧凑型SUV,汽油,2024.03,5年或14万公里
+福特,锐际,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e85d383a99d24b91b83a3b4e46f711fe~tplv-resize:640:0.png,867,"[18.68, 13.48]",长安福特,303,紧凑型SUV,汽油,2023.08,3年或10万公里
+本田,缤智,https://p9-dcd.byteimg.com/img/motor-mis-img/8667f54bc5d28b9ee06bf37dc60cc85f~tplv-resize:640:0.png,860,"[11.49, 9.49]",广汽本田,304,小型SUV,汽油,2022.11,3年或10万公里
+长安,逸动EV,https://p3-dcd.byteimg.com/img/motor-mis-img/436afddc96adbf1bea9ad5e693d13a35~tplv-resize:640:0.png,841,"[14.99, 14.99]",长安汽车,305,紧凑型车,纯电动,2024.01,1年或12万公里
+标致,标致4008,https://p3-dcd.byteimg.com/img/motor-mis-img/736419b6347a430fa6ef5941234c9513~tplv-resize:640:0.png,835,"[13.97, 12.97]",东风标致,306,紧凑型SUV,汽油,2024.07,3年或10万公里
+极氪,ZEEKR X,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/87bf9e60731445798436e52d5c9c042d~tplv-resize:640:0.png,821,"[22, 17.9]",极氪,307,紧凑型SUV,纯电动,2024.07,4年或10万公里
+比亚迪,海豹,https://p9-dcd.byteimg.com/img/motor-mis-img/d7ab3d316e19b29973be27d746df2fa9~tplv-resize:640:0.png,813,"[24.18, 17.18]",比亚迪,308,中型车,纯电动,2024.03,6年或15万公里
+荣威,荣威D7 DMH,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fde7c9bf8c4d47d2911c150aa53fc207~tplv-resize:640:0.png,811,"[12.58, 10.58]",上汽集团,309,中型车,插电式混合动力,2023.11,6年或15万公里
+本田,本田UR-V,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f475084cc3e44000a686ed8f7a955963~tplv-resize:640:0.png,801,"[27.18, 18.88]",东风本田,310,中型SUV,汽油,2023.06,3年或10万公里
+东风富康,e爱丽舍,https://p9-dcd.byteimg.com/img/motor-mis-img/9ceefa4a99be7a2c74240137c1d04568~tplv-resize:640:0.png,800,"[13.98, 12.98]",神龙汽车,311,紧凑型车,纯电动,2021.03,3年或12万公里
+北汽制造,锐胜王牌M7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/9ab40d5c662d43be9e3e28282ab17ad7~tplv-resize:640:0.png,780,"[15.68, 5.78]",北京汽车制造厂,312,中大型MPV,汽油,2024.04,3年或6万公里
+雪铁龙,凡尔赛C5 X,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fbb2febc93054b269bd8eeb04935102c~tplv-resize:640:0.png,776,"[17.17, 13.17]",东风雪铁龙,313,中型车,汽油,2024.04,5年或15万公里
+奔驰,奔驰EQE SUV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ddc1f2b0d2a54bd7beaf63f4c5fd5837~tplv-resize:640:0.png,770,"[46.36, 31.9]",北京奔驰,314,中大型SUV,纯电动,2024.04,3年不限公里
+领克,领克09,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0517b57f07fd4c3ca9827b8ea279ec51~tplv-resize:640:0.png,769,"[23.48, 23.48]",领克,315,中大型SUV,48V轻混系统,2024.04,5年或10万公里
+日产,探陆,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1e9d215e79504327b7fcee191d8caaf4~tplv-resize:640:0.png,760,"[27.78, 21.58]",东风日产,316,中大型SUV,汽油,2024.03,3年或10万公里
+雪铁龙,天逸 C5 AIRCROSS,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c93b0bba962f40328e628f302b03c6d6~tplv-resize:640:0.png,759,"[17.77, 12.27]",东风雪铁龙,317,紧凑型SUV,汽油,2024.07,5年或15万公里
+吉利汽车,帝豪L HiP,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7317c74acb8a4d00aa8ab358efb895fa~tplv-resize:640:0.png,758,"[12.68, 8.68]",吉利汽车,318,紧凑型车,插电式混合动力,2024.02,6年或15万公里
+荣威,荣威D5X DMH,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/5f76e3a9f0684a529d8a128efb9bb365~tplv-resize:640:0.png,747,"[13.68, 11.98]",上汽集团,319,紧凑型SUV,插电式混合动力,2024.05,6年或15万公里
+哈弗,哈弗二代大狗PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d11ce6a2cca84e77aa13a17c6b3e461e~tplv-resize:640:0.png,737,"[14.53, 12.83]",长城汽车,320,中型SUV,插电式混合动力,2024.03,6年或15万公里
+别克,别克E5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/433e3405bbac450d83a939bd75ae6c16~tplv-resize:640:0.png,728,"[18.39, 15.99]",上汽通用别克,321,中大型SUV,纯电动,2024.02,3年或10万公里
+宝骏,悦也,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/89571c98d16249bfa17a9e614ecedea0~tplv-resize:640:0.png,726,"[9.08, 7.98]",上汽通用五菱,322,小型SUV,纯电动,2024.04,3年或10万公里
+ARCFOX极狐,极狐 阿尔法S5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/62b8d4dd26a34ec78aa9741491e89c54~tplv-resize:640:0.png,715,"[18.5, 12.9]",北汽新能源,323,中型车,纯电动,2024.08,3年12万公里
+上汽大通MAXUS,大通G50,https://p3-dcd.byteimg.com/img/motor-mis-img/1f8cf3e8aa8da7a93d7fa90a0ed6e5d6~tplv-resize:640:0.png,715,"[14.08, 7.78]",上汽大通,324,紧凑型MPV,汽油,2024.03,3年或6万公里
+丰田,广汽丰田铂智4X,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/07e52f01f31940cbbc530d237e7fc671~tplv-resize:640:0.png,714,"[21.88, 15.98]",广汽丰田,325,中型SUV,纯电动,2023.11,3年或10万公里
+奥迪,奥迪Q2L,https://p3-dcd.byteimg.com/img/motor-mis-img/0e16b77226dca6112ea3d2b8e2e7d9d5~tplv-resize:640:0.png,714,"[16.96, 14.48]",一汽-大众奥迪,326,小型SUV,汽油,2023.08,3年或10万公里
+捷豹,捷豹XFL,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ff4471d5fe15485abe12491dc23c2c78~tplv-resize:640:0.png,714,"[32.68, 25.88]",奇瑞捷豹路虎,327,中大型车,汽油,2024.02,3年或10万公里
+吉利汽车,吉利ICON,https://p9-dcd.byteimg.com/img/motor-mis-img/1c4d6a1078cf0ab10fec8126528059d4~tplv-resize:640:0.png,713,"[11.49, 9.49]",吉利汽车,328,小型SUV,汽油,2024.05,4年或10万公里
+凌宝汽车,凌宝BOX,https://p3-dcd.byteimg.com/img/motor-mis-img/9d72dc64d09e5287ae96d903ebcc638d~tplv-resize:640:0.png,703,"[6.88, 3.98]",吉麦新能源,329,微型车,纯电动,2024.01,3年或6万公里
+捷豹,捷豹XEL,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/738f5783073047c080a6da837c236b97~tplv-resize:640:0.png,703,"[21.18, 18.8]",奇瑞捷豹路虎,330,中型车,汽油,2023.10,3年或10万公里
+创维汽车,创维EV6,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/2aee6b1ce476409b809d1833fc185283~tplv-resize:640:0.png,650,"[32.98, 13.98]",创维汽车,341,中型SUV,纯电动,2024.07,5年或15万公里
+创维汽车,创维HT-i,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1f797a0102ab4d71ad0d47e960463d35~tplv-resize:640:0.png,643,"[31.68, 12.58]",创维汽车,342,中型SUV,插电式混合动力,2024.03,5年或15万公里
+马自达,马自达CX-50行也,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cd69fe0e126842e7ac2d6c942972143f~tplv-resize:640:0.png,625,"[22.48, 14.48]",长安马自达,343,紧凑型SUV,汽油,2024.03,3年或10万公里
+红旗,红旗HQ9,https://p9-dcd.byteimg.com/img/motor-mis-img/b690e5fd5c48d8da3726a893a2d296cf~tplv-resize:640:0.png,621,"[53.88, 35.88]",一汽红旗,344,中大型MPV,48V轻混系统,2024.04,4年或10万公里
+大众,ID.6 CROZZ,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/bfe72d8d82e24fab93410c6b07179b38~tplv-resize:640:0.png,611,"[27.49, 19.69]",一汽-大众,345,中大型SUV,纯电动,2023.09,3年或10万公里
+红旗,红旗H9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3f7da5ac79454bc29ccd01565f19ec35~tplv-resize:640:0.png,609,"[81, 25.98]",一汽红旗,346,中大型车,48V轻混系统,2024.04,4年或10万公里
+东风风光,风光S560,https://p9-dcd.byteimg.com/img/motor-mis-img/ff3d4636305ad260c3cb9258efcca985~tplv-resize:640:0.png,607,"[7.89, 6.79]",东风小康,347,紧凑型SUV,汽油,2023.12,7年或15万公里
+大运,悦虎,https://p3-dcd.byteimg.com/img/motor-mis-img/734908e2eb6373bc7e736fae703e25f6~tplv-resize:640:0.png,604,"[8.1, 5.78]",大运汽车,348,小型SUV,纯电动,2023.06,3年或12万公里
+沃尔沃,沃尔沃XC60 PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/fc3ab417cc4308639925ee54f86c7419~tplv-resize:640:0.png,604,"[46.39, 39.09]",沃尔沃亚太,349,中型SUV,插电式混合动力,2024.07,3年不限公里
+奇瑞,瑞虎3x,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/824cad6766644142b83d4b33b9a3e824~tplv-resize:640:0.png,603,"[6.69, 4.69]",奇瑞汽车,350,小型SUV,汽油,2024.04,3年或10万公里
+凯迪拉克,凯迪拉克XT4,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0a4bbf84f21a4ef991576b8619a433a1~tplv-resize:640:0.png,602,"[23.77, 19.97]",上汽通用凯迪拉克,351,紧凑型SUV,48V轻混系统,2023.05,3年不限公里
+起亚,起亚EV5,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/8c0e92457a3c418d96d170d35af6afd6~tplv-resize:640:0.png,594,"[22.58, 14.98]",起亚,352,紧凑型SUV,纯电动,2023.11,5年或10万公里
+启辰,启辰大V,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/70ada3c249cf4fd69983d811b1e04a39~tplv-resize:640:0.png,593,"[11.48, 8.58]",东风日产,353,紧凑型SUV,汽油,2023.09,3年或10万公里
+理想汽车,理想MEGA,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d0437ce51fc94ffb8c4d700c169ce3f5~tplv-resize:640:0.png,589,"[52.98, 52.98]",理想汽车,354,大型MPV,纯电动,2024.03,5年或10万公⾥
+极氪,ZEEKR 009,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/05e891a13ed246f8b3d28415a1735893~tplv-resize:640:0.png,586,"[78.9, 43.9]",极氪,355,中大型MPV,纯电动,2024.07,4年或10万公里
+哪吒汽车,哪吒S,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f5b33847b129473f8fd1ea7239dc73f5~tplv-resize:640:0.png,584,"[22.48, 15.48]",合众汽车,356,中大型车,增程式,2023.07,4年或12万公里
+红旗,红旗H6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fa72daa861444c8898700a48cabab96b~tplv-resize:640:0.png,580,"[21.48, 15.48]",一汽红旗,357,中型车,汽油,2024.06,4年或10万公里
+凯翼,炫界,https://p3-dcd.byteimg.com/img/motor-mis-img/2666dff05b9d5813ff3dcfff49862beb~tplv-resize:640:0.png,572,"[9.49, 6.39]",凯翼汽车,358,小型SUV,汽油,2024.02,3年或10万公里
+长安,长安UNI-V 智电iDD,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2795607979c740fa8e2e985fb2dc1a88~tplv-resize:640:0.png,549,"[12.69, 11.49]",长安汽车,359,紧凑型车,插电式混合动力,2024.04,3年或12万公里
+领克,领克01,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/827fe2deca1b48ec9ded3e921232183c~tplv-resize:640:0.png,541,"[18.38, 14.28]",领克,360,紧凑型SUV,汽油,2024.04,4年或10万公里
+五菱汽车,五菱缤果PLUS,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/4fd05310cc9a472db6fcc2462023852b~tplv-resize:640:0.png,540,"[9.88, 8.98]",上汽通用五菱,361,小型SUV,纯电动,2024.03,4年或15万公里
+凯迪拉克,凯迪拉克XT6,https://p9-dcd.byteimg.com/img/motor-mis-img/6d647af5a9e836b52664a4b0e679b4ea~tplv-resize:640:0.png,535,"[42.97, 31.27]",上汽通用凯迪拉克,362,中大型SUV,48V轻混系统,2021.08,3年不限公里
+奥迪,奥迪Q5L Sportback,https://p3-dcd.byteimg.com/img/motor-mis-img/2cc4f8515f1b80e13dab5fa1e84196f9~tplv-resize:640:0.png,527,"[32.76, 28.94]",一汽-大众奥迪,363,中型SUV,汽油,2023.10,3年或10万公里
+坦克,坦克300 Hi4-T,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b672a99f9f65477c8f61f19f17e5f32d~tplv-resize:640:0.png,523,"[26.98, 26.98]",长城汽车,364,紧凑型SUV,插电式混合动力,2024.04,5年或15万公里
+远航汽车,远航H8,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/13afc68b66ff4d8092ca3e27c715823c~tplv-resize:640:0.png,523,"[38.98, 28.98]",远航汽车,365,大型SUV,纯电动,2024.04,6年或16万公里
+奔驰,奔驰GLA,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e7b3c594dd59465fa7a66c057a5901ed~tplv-resize:640:0.png,522,"[22.19, 17.99]",北京奔驰,366,紧凑型SUV,48V轻混系统,2023.11,3年不限公里
+思皓,思皓花仙子,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7a7c73fd87fe459f9f75a1ebdcf7c74a~tplv-resize:640:0.png,521,"[7.49, 5.99]",江汽集团,367,微型车,纯电动,2022.11,3年或12万公里
+腾势,腾势D9 EV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7751ba552d384a5aa57d20cc58876b29~tplv-resize:640:0.png,519,"[46.98, 37.98]",腾势汽车,368,中大型MPV,纯电动,2024.03,6年或15万公里
+广汽传祺,传祺ES9 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/15c11682cdb54abfa9538ad08c148c9c~tplv-resize:640:0.png,518,"[26.98, 22.98]",广汽乘用车,369,中大型SUV,插电式混合动力,2024.06,5年或15万公里
+大众,帕萨特PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/1304ba480eb5fec1b5059baef1a8762d~tplv-resize:640:0.png,517,"[20.21, 19.32]",上汽大众,370,中型车,插电式混合动力,2022.09,3年或10万公里
+飞凡汽车,飞凡R7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/0411511da1c7449094e840d419972f01~tplv-resize:640:0.png,513,"[22.49, 18.49]",飞凡汽车,371,中大型SUV,纯电动,2023.11,5年或12万公里
+吉利汽车,星瑞L,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/00919a7f53f64b5a8458267e3ced78f9~tplv-resize:640:0.png,511,"[13.97, 11.97]",吉利汽车,372,紧凑型车,油电混合,2023.12,5年或15万公里
+远航汽车,远航Y6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e5a90fd829584198b01a22b25cc5d70a~tplv-resize:640:0.png,511,"[35.98, 26.98]",远航汽车,373,大型车,纯电动,2024.04,6年或16万公里
+哈弗,哈弗H5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fe308dc65e0c4b218cd26a55fc3b8728~tplv-resize:640:0.png,510,"[13.88, 10.38]",长城汽车,374,大型SUV,汽油,2024.03,3年或10万公里
+魏牌,高山,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e103bde0f6544d958a6284658161c38f~tplv-resize:640:0.png,504,"[38.58, 30.58]",长城汽车,375,中大型MPV,插电式混合动力,2023.10,6年或15万公里
+昊铂,昊铂HT,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/973f2a8d61c04ed19d61f18aa9d5c08e~tplv-resize:640:0.png,502,"[32.99, 21.39]",广汽埃安新能源,376,中大型SUV,纯电动,2024.04,6年或15万公里
+北京汽车,北京X7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/67658ecc813347a7ac755fe72b5123ad~tplv-resize:640:0.png,501,"[11.49, 9.49]",北京汽车,377,紧凑型SUV,汽油,2024.03,5年或10万公里
+凯迪拉克,IQ傲歌,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/63529507cdcd4edd873e149c1ae05bae~tplv-resize:640:0.png,493,"[26.97, 23.97]",上汽通用凯迪拉克,378,中型SUV,纯电动,2024.04,3年不限公里
+星途,星途揽月,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c271cffb3ca74bedaa33e218863439d4~tplv-resize:640:0.png,488,"[22.09, 17.59]",星途,379,中大型SUV,汽油,2023.11,3年或10万公里
+斯柯达,速派,https://p9-dcd.byteimg.com/img/motor-mis-img/2b48a7e90d9cc764cb4828a3de87e1f4~tplv-resize:640:0.png,476,"[14.19, 11.99]",上汽大众斯柯达,380,中型车,汽油,2023.11,3年或10万公里
+江淮瑞风,瑞风M3,https://p3-dcd.byteimg.com/img/motor-mis-img/84b7fe67cf859ba3a518ab0d3d3bf073~tplv-resize:640:0.png,467,"[12.29, 6.37]",江汽集团,381,紧凑型MPV,油电混合,2023.12,3年或10万公里
+极越,极越01,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/13cd0c78b59747e6add06181ce5f7883~tplv-resize:640:0.png,461,"[30.99, 21.99]",极越,382,中大型SUV,纯电动,2023.10,4年或10万公里
+比亚迪,秦EV,https://p3-dcd.byteimg.com/img/motor-mis-img/1c7a3356986a77510a0b53855fb5a868~tplv-resize:640:0.png,455,"[16.98, 15.58]",比亚迪,383,紧凑型车,纯电动,2024.07,6年或60万公里
+红旗,红旗EH7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7bb0ae74e8db4b5994b964e9329f9a08~tplv-resize:640:0.png,450,"[30.98, 22.98]",一汽红旗,384,中大型车,纯电动,2024.03,4年或10万公里
+凯迪拉克,凯迪拉克CT4,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5312e1be61924f1988aaf45a2d8bfbb0~tplv-resize:640:0.png,448,"[20.97, 16.97]",上汽通用凯迪拉克,385,中型车,汽油,2022.11,3年不限里程
+宝骏,宝骏KiWi EV,https://p3-dcd.byteimg.com/img/motor-mis-img/efdc6c8ac11f8f256a1a69c114935b01~tplv-resize:640:0.png,443,"[10.28, 8.78]",上汽通用五菱,386,微型车,纯电动,2022.09,3年或6万公里
+中国重汽VGV,VGV U70,https://p3-dcd.byteimg.com/img/motor-mis-img/8962f78d7a160bfa32466bf7fc4be7ee~tplv-resize:640:0.png,423,"[11.89, 7.79]",中国重汽VGV,391,中型SUV,汽油,2021.01,7年或15万公里
+仰望,仰望U8,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6ab6732babb34e30b5e63c41a3eb5b08~tplv-resize:640:0.png,418,"[109.8, 109.8]",仰望,392,大型SUV,增程式,2024.04,6年或15万公里
+本田,本田CR-V PHEV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/0047a45a573a45fcbfe7e58c31d36acd~tplv-resize:640:0.png,416,"[23.49, 19.09]",东风本田,393,紧凑型SUV,插电式混合动力,2023.03,3年或10万公里
+大众,探岳X,https://p3-dcd.byteimg.com/img/motor-mis-img/2354614b33fc510dcae00876a4a23d77~tplv-resize:640:0.png,413,"[21.89, 18.89]",一汽-大众,394,中型SUV,汽油,2023.03,3年或10万公里
+凯翼,凯翼昆仑,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2e9b4807525e49c98142a0af0b91b878~tplv-resize:640:0.png,403,"[16.99, 9.99]",凯翼汽车,395,中型SUV,汽油,2024.06,4年或10万公里
+奥迪,奥迪Q6,https://p3-dcd.byteimg.com/img/motor-mis-img/f2c6590230ea9e5dafc638dfb7091ab0~tplv-resize:640:0.png,400,"[57.51, 43.96]",上汽奥迪,396,中大型SUV,汽油,2024.01,3年或10万公里
+昊铂,昊铂GT,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/9e69c314c8674619b07ab21da1c9f31b~tplv-resize:640:0.png,399,"[25.99, 18]",广汽埃安新能源,397,中大型车,纯电动,2024.06,6年或15万公里
+起亚,奕跑,https://p3-dcd.byteimg.com/img/motor-mis-img/3634d1e1b33e9b6c6c8163d55fcca20c~tplv-resize:640:0.png,397,"[7.58, 6.18]",起亚,398,小型SUV,汽油,2021.06,3年或10万公里
+北京汽车,魔方,https://p3-dcd.byteimg.com/img/motor-mis-img/6484b5e44861629ef049ac3c1ce3635b~tplv-resize:640:0.png,391,"[11.69, 8.49]",北京汽车,399,紧凑型SUV,汽油,2024.03,5年或10万公里
+江铃集团新能源,易至EV3,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/85b368807a6e4a4384b8b605eebe55bf~tplv-resize:640:0.png,391,"[6.68, 5.28]",江铃集团新能源,400,微型车,纯电动,2024.07,3年或6万公里
+红旗,红旗HS7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d88db156ed514c43a111d5f57a4e797d~tplv-resize:640:0.png,389,"[31.58, 23.58]",一汽红旗,401,中大型SUV,48V轻混系统,2023.08,4年或10万公里
+飞凡汽车,飞凡F7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/05418ae564404a428099f08313bb880d~tplv-resize:640:0.png,387,"[26.99, 18.99]",飞凡汽车,402,中大型车,纯电动,2023.11,5年或12万公里
+凌宝汽车,凌宝Uni,https://p9-dcd.byteimg.com/img/motor-mis-img/f0549e706e22b4bef069b9e470c55ff3~tplv-resize:640:0.png,375,"[4.18, 2.98]",吉麦新能源,403,微型车,纯电动,2023.03,3年或10万公里
+丰田,亚洲狮,https://p3-dcd.byteimg.com/img/motor-mis-img/425ce00970c41af596f5fb6d21b7fed9~tplv-resize:640:0.png,366,"[13.98, 10.18]",一汽丰田,404,紧凑型车,汽油,2023.05,3年或10万公里
+丰田,凌尚,https://p9-dcd.byteimg.com/img/motor-mis-img/66e6bc900e196b8ffdb72e07bfe2b18e~tplv-resize:640:0.png,363,"[12.98, 9.98]",广汽丰田,405,紧凑型车,汽油,2024.07,3年或10万公里
+东风风光,风光330,https://p3-dcd.byteimg.com/img/motor-mis-img/6f7c31bce10482b0e6b2db15654441e8~tplv-resize:640:0.png,363,"[6.88, 4.19]",东风小康,406,紧凑型MPV,汽油,2023.10,7年或20万公里
+哈弗,哈弗枭龙MAX,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/94de8037fafe42d78886694b51b82c12~tplv-resize:640:0.png,355,"[13.88, 11.88]",长城汽车,407,中型SUV,插电式混合动力,2023.05,6年或15万公里
+五菱汽车,五菱征程,https://p9-dcd.byteimg.com/img/motor-mis-img/14a5f4d31b2390bbe29d1e2ed5c86725~tplv-resize:640:0.png,355,"[9.08, 6.98]",上汽通用五菱,408,中大型MPV,汽油,2022.09,3年或6万公里
+合创汽车,合创A06,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/6ed97fb37fb446c2bfc1ed3f142f8015~tplv-resize:640:0.png,352,"[26.98, 13.98]",合创汽车,409,中型车,纯电动,2023.11,4年或15万公里
+奥迪,奥迪Q5 e-tron,https://p3-dcd.byteimg.com/img/motor-mis-img/6a288e43d3e85af91ecebda0776126cb~tplv-resize:640:0.png,350,"[37.75, 26.85]",上汽奥迪,410,中大型SUV,纯电动,2024.05,3年或10万公里
+奥迪,奥迪Q3 Sportback,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/5bcc38dbfe224058a45bfccef3d561c4~tplv-resize:640:0.png,346,"[22.17, 19.03]",一汽-大众奥迪,411,紧凑型SUV,汽油,2023.08,3年或10万公里
+凯迪拉克,凯迪拉克CT6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1effd18860ed46a9873ed3b7e2552f7b~tplv-resize:640:0.png,343,"[41.47, 30.47]",上汽通用凯迪拉克,412,中大型车,汽油,2023.05,3年不限公里
+林肯,飞行家,https://p3-dcd.byteimg.com/img/motor-mis-img/ad53b550ad2645d145836079677486ca~tplv-resize:640:0.png,342,"[75.38, 49.08]",长安林肯,413,中大型SUV,汽油,2023.09,5年或14万公里
+长安,锐程PLUS,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/6de734d6685c494daee1c10272206263~tplv-resize:640:0.png,341,"[10.79, 8.49]",长安汽车,414,紧凑型车,汽油,2024.05,3年或10万公里
+丰田,丰田C-HR,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b0e1fef05cbb4a33be7c024e82deae95~tplv-resize:640:0.png,339,"[15.28, 11.28]",广汽丰田,415,小型SUV,汽油,2023.03,3年或10万公里
+东风风光,风光MINIEV,https://p3-dcd.byteimg.com/img/motor-mis-img/d7c240b7c803e1ce776dddab51d26248~tplv-resize:640:0.png,338,"[5.91, 2.86]",东风小康,416,微型车,纯电动,2022.03,3年或10万公里
+哪吒汽车,哪吒AYA,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/181eb1cb372d46b292dc0c4da1a252a3~tplv-resize:640:0.png,337,"[8.08, 6.58]",合众汽车,417,小型SUV,纯电动,2023.08,3年或12万公里
+大众,迈腾GTE,https://p3-dcd.byteimg.com/img/motor-mis-img/aa0da3e462123203481abf9ce80822a1~tplv-resize:640:0.png,334,"[19.59, 18.09]",一汽-大众,418,中型车,插电式混合动力,2021.12,3年或10万公里
+北京,北京BJ60,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0087942025b04295b04efa7c84472d8b~tplv-resize:640:0.png,330,"[28.58, 23.98]",北京汽车,419,中大型SUV,48V轻混系统,2023.09,5年或15万公里
+睿蓝汽车,睿蓝7,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/34076f95094b48af8c6835540dd8227d~tplv-resize:640:0.png,329,"[17.77, 11.57]",睿蓝汽车,420,紧凑型SUV,纯电动,2024.06,6年或15万公里
+ARCFOX极狐,极狐 阿尔法S,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/47d20dbda41240acab501a570c17381f~tplv-resize:640:0.png,324,"[32.98, 17.98]",北汽新能源,421,中大型车,纯电动,2024.04,3年或12万公里
+岚图,岚图梦想家 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/f555a18ac28d80c7e938d27b137da439~tplv-resize:640:0.png,321,"[68.99, 30.99]",岚图汽车,422,中大型MPV,纯电动,2024.03,5年或10万公里
+标致,标致5008,https://p3-dcd.byteimg.com/img/motor-mis-img/1c52368ba37e8b4015e2014021d98abd~tplv-resize:640:0.png,321,"[19.37, 14.87]",东风标致,423,中型SUV,汽油,2022.11,5年或15万公里
+岚图,岚图追光 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f403f07775ae4a8f8f23694d07236baa~tplv-resize:640:0.png,320,"[26.78, 24.28]",岚图汽车,424,中大型车,插电式混合动力,2023.12,5年或10万公里
+蔚来,蔚来EC7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/885a4f39f1d84a7aadde3c114219c1dd~tplv-resize:640:0.png,319,"[54.8, 45.8]",蔚来,425,中大型SUV,纯电动,2024.02,3年或12万公里
+沃尔沃,沃尔沃S90 PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/30c75f1e8d46ba045e0078395194ddb8~tplv-resize:640:0.png,314,"[46.89, 37.99]",沃尔沃亚太,426,中大型车,插电式混合动力,2023.06,3年不限公里
+东风风光,风光580,https://p9-dcd.byteimg.com/img/motor-mis-img/81ce7abfa259e4a8e2764f1000f284d5~tplv-resize:640:0.png,314,"[12.99, 7.99]",东风小康,427,中型SUV,汽油,2021.11,7年或15万公里
+智己汽车,智己LS7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/54f6f3a1df194fefb451ad6404921f0a~tplv-resize:640:0.png,311,"[44.98, 27.98]",智己汽车,428,中大型SUV,纯电动,2024.06,5年或15万公里
+东风风光,风光500,https://p9-dcd.byteimg.com/img/motor-mis-img/e70c2c39ab8b0a1e6e4d38c67e96c92f~tplv-resize:640:0.png,302,"[8.08, 5.68]",东风小康,429,紧凑型SUV,汽油,2021.08,7年或15万公里
+大众,ID.7 VIZZION,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/3a499c1503f94e379f3ae8e665cf41ed~tplv-resize:640:0.png,299,"[23.27, 19.77]",一汽-大众,430,中型车,纯电动,2023.12,3年或10万公里
+凯翼,凯翼拾月,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d654726800a34ad197462e1a65864112~tplv-resize:640:0.png,287,"[9.98, 5.39]",凯翼汽车,431,微型车,纯电动,2023.11,3年或12万公里
+本田,ZR-V 致在,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/d59738a62f53451bbcf05a4bc6bd907c~tplv-resize:640:0.png,283,"[18.09, 11.19]",广汽本田,432,紧凑型SUV,汽油,2023.02,3年或10万公里
+小鹏汽车,小鹏P5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a638941d454742058547308ebfab52d2~tplv-resize:640:0.png,283,"[15.49, 13.69]",小鹏汽车,433,紧凑型车,纯电动,2023.09,4年或10万公里
+睿蓝汽车,睿蓝9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7575b7c9d59f478391ec644c2ae07201~tplv-resize:640:0.png,281,"[19.79, 13.99]",睿蓝汽车,434,中型SUV,纯电动,2022.12,4年或15万公里
+荣威,荣威Ei5,https://p9-dcd.byteimg.com/img/motor-mis-img/f44c223bbfe4ddf0d92ef89139ae89bd~tplv-resize:640:0.png,277,"[16.68, 15.28]",上汽集团,435,紧凑型车,纯电动,2021.03,3年或10万公里
+斯柯达,柯米克GT,https://p9-dcd.byteimg.com/img/motor-mis-img/b107ac26e249c23a271698a4c770fb62~tplv-resize:640:0.png,274,"[8.39, 8.39]",上汽大众斯柯达,436,小型SUV,汽油,2023.11,3年或10万公里
+上汽大通MAXUS,大通G10,https://p9-dcd.byteimg.com/img/motor-mis-img/0278cd781f8003a738f78e3a89038863~tplv-resize:640:0.png,272,"[18.58, 11.58]",上汽大通,437,中大型MPV,压缩天然气(CNG),2024.01,3年或6万公里
+极石汽车,极石01,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e61b5702879c422bb768326b2b69a896~tplv-resize:640:0.png,260,"[35.99, 34.99]",北京汽车制造厂,438,中大型SUV,增程式,2023.08,5年或10万公里
+斯柯达,柯迪亚克,https://p3-dcd.byteimg.com/img/motor-mis-img/bdbd1bffe440a691fb9e8c37ab20e8f6~tplv-resize:640:0.png,260,"[18.89, 13.69]",上汽大众斯柯达,439,中型SUV,汽油,2023.10,3年或10万公里
+奔驰,奔驰EQB,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2e9cea9cd8e440c59f50fa5f9a1469c9~tplv-resize:640:0.png,256,"[28.7, 21.1]",北京奔驰,440,紧凑型SUV,纯电动,2024.08,3年不限公里
+奇瑞新能源,艾瑞泽e,https://p3-dcd.byteimg.com/img/motor-mis-img/801fac00fa4a0818fc25e1fc20372dda~tplv-resize:640:0.png,250,"[15.78, 15.28]",奇瑞新能源,441,紧凑型车,纯电动,2023.08,1年或10万公里
+蔚来,蔚来ES7,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/03f85ad23b75470aa2c6b8fc43fc8c11~tplv-resize:640:0.png,245,"[51.8, 43.8]",蔚来,442,中大型SUV,纯电动,2024.02,3年或12万公里
+福特,领裕,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/af5d7d24a04348fa954883a25310b018~tplv-resize:640:0.png,245,"[17.18, 12.38]",江铃福特,443,中大型SUV,汽油,2023.02,3年或10万公里
+日产,ARIYA 艾睿雅,https://p9-dcd.byteimg.com/img/motor-mis-img/c16b1a2dfa6203ff91b2a3d20e20bceb~tplv-resize:640:0.png,237,"[22.79, 14.49]",东风日产,444,紧凑型SUV,纯电动,2023.07,3年或10万公里
+坦克,坦克500,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/a36d53e3b7e6450e881067328a87d84b~tplv-resize:640:0.png,230,"[39.5, 33.5]",长城汽车,445,中大型SUV,48V轻混系统,2023.03,5年或15万公里
+睿蓝汽车,枫叶60s,https://p9-dcd.byteimg.com/img/motor-mis-img/22ab00035ad9fd4ac71b8baf75aa7293~tplv-resize:640:0.png,230,"[12.98, 7.98]",睿蓝汽车,446,紧凑型车,纯电动,2023.03,1年或15万公里
+名爵,MG6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e79a397f178a42b2a125fea383e0c777~tplv-resize:640:0.png,225,"[11.98, 9.58]",上汽集团,447,紧凑型车,汽油,2023.04,3年或10万公里
+东风富康,富康ES600,https://p9-dcd.byteimg.com/img/motor-mis-img/9d0422fde61435579a20862d9847eecf~tplv-resize:640:0.png,224,"[16.38, 15.38]",神龙汽车,448,紧凑型车,纯电动,2022.11,3年或12万公里
+魏牌,摩卡PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0a1bc6c4ab8842c8b5726b89f9f8c604~tplv-resize:640:0.png,223,"[22.88, 22.18]",长城汽车,449,中型SUV,插电式混合动力,2024.05,5年或15万公里
+欧拉,欧拉闪电猫,https://p3-dcd.byteimg.com/img/motor-mis-img/9a42521e00f5301bbf77aaec4f602946~tplv-resize:640:0.png,215,"[23.08, 15.08]",长城汽车,450,中型车,纯电动,2022.10,5年或15万公里
+吉利几何,吉利几何G6,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2aa2a7143c4c4d849d972ea8ee260ca2~tplv-resize:640:0.png,213,"[18.28, 11.98]",吉利几何,451,紧凑型车,纯电动,2023.09,4年或12万公里
+东风风度,帕拉丁,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0bcc2774198b49a0888e3193bed0093a~tplv-resize:640:0.png,212,"[25.38, 16.18]",郑州日产,452,中型SUV,汽油,2024.04,3年或10万公里
+东风风光,风光380,https://p9-dcd.byteimg.com/img/motor-mis-img/e87c65ae4c1e522f6a6e6c7eb2ed110d~tplv-resize:640:0.png,208,"[6.08, 5.28]",东风小康,453,微面,汽油,2022.06,3年或6万公里
+合创汽车,合创Z03,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/966f8986005d4b1e9b62bd3bc3231f39~tplv-resize:640:0.png,208,"[18.28, 13.48]",合创汽车,454,紧凑型SUV,纯电动,2022.04,4年或15万公里
+思铭,东风本田M-NV,https://p9-dcd.byteimg.com/img/motor-mis-img/b20ad2749ca184a995d7d9b88d20b147~tplv-resize:640:0.png,205,"[12.98, 11.98]",东风本田,455,小型SUV,纯电动,2023.06,3年或12万公里
+大众,途铠,https://p9-dcd.byteimg.com/img/motor-mis-img/c21b08981b849be7a38cfb49f038d530~tplv-resize:640:0.png,203,"[13.69, 9.09]",上汽大众,456,小型SUV,汽油,2023.05,3年或10万公里
+名爵,MG4 EV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/798b4dc1a776470c9d5ebf6dae3be966~tplv-resize:640:0.png,202,"[17.98, 10.98]",上汽集团,457,紧凑型车,纯电动,2023.09,3年或10万公里
+英菲尼迪,英菲尼迪QX60,https://p3-dcd.byteimg.com/img/motor-mis-img/7a627875ede9d3e13c79a4c4218a2d4a~tplv-resize:640:0.png,202,"[42.88, 30.88]",东风英菲尼迪,458,中大型SUV,汽油,2023.11,4年或10万公里
+大众,ID.6 X,https://p3-dcd.byteimg.com/img/motor-mis-img/bc5400d7759589d05ac39a0f52362327~tplv-resize:640:0.png,200,"[22.79, 19.39]",上汽大众,459,中大型SUV,纯电动,2023.04,3年或10万公里
+沃尔沃,沃尔沃EX30,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e00dc34dbb9d4bc1b3468659adc15ff1~tplv-resize:640:0.png,199,"[25.58, 20.08]",沃尔沃亚太,460,小型SUV,纯电动,2024.05,3年不限公里
+雪佛兰,探界者Plus,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c72150584c9144fb94b1eaa81df2b464~tplv-resize:640:0.png,193,"[17.99, 14.99]",上汽通用雪佛兰,461,中型SUV,插电式混合动力,2024.04,3年或10万公里
+江淮瑞风,瑞风RF8 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/809daf18f7fc4be1b137dd84e32a34ab~tplv-resize:640:0.png,189,"[25.99, 21.99]",江汽集团,462,中大型MPV,插电式混合动力,2024.01,5年或10万公里
+比亚迪,比亚迪e3,https://p9-dcd.byteimg.com/img/motor-mis-img/993f74dfdbd9feb7e14875c014b44163~tplv-resize:640:0.png,189,"[15.48, 15.48]",比亚迪,463,紧凑型车,纯电动,2021.08,3年或10万公里
+起亚,起亚K5,https://p3-dcd.byteimg.com/img/motor-mis-img/b9d80160c481012488835c2bfca2444c~tplv-resize:640:0.png,184,"[17.68, 13.28]",起亚,464,中型车,汽油,2021.08,可选:[3年或15万公里] [5年或10万公里] [7年或7万公里]
+凯翼,凯翼昆仑iHD,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f5eb6bf3f1484eda9274fdad6c056a57~tplv-resize:640:0.png,183,"[17.99, 14.99]",凯翼汽车,465,中型SUV,插电式混合动力,2024.07,4年或10万公里
+福特,福特电马,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7b88c973a0d548a38057e70ecc07c08e~tplv-resize:640:0.png,181,"[35.98, 23.98]",长安福特,466,中型SUV,纯电动,2023.12,4年或10万公里
+雪佛兰,迈锐宝XL,https://p9-dcd.byteimg.com/img/motor-mis-img/8171a91a9f3017a9001e682797dc5f77~tplv-resize:640:0.png,181,"[14.99, 10.59]",上汽通用雪佛兰,467,中型车,汽油,2023.06,3年或10万公里
+奇瑞,欧萌达,https://p3-dcd.byteimg.com/img/motor-mis-img/909cce5c7758ab29135fc1593e5349ae~tplv-resize:640:0.png,175,"[10.79, 7.99]",奇瑞汽车,468,紧凑型SUV,汽油,2024.03,3年或10万公里
+起亚,嘉华,https://p9-dcd.byteimg.com/img/motor-mis-img/c6ac1024c4633112f738ffc8fc41b52c~tplv-resize:640:0.png,175,"[29.29, 24.19]",起亚,469,中大型MPV,汽油,2021.09,5年或10万公里
+起亚,智跑,https://p3-dcd.byteimg.com/img/motor-mis-img/93ee7cb27ef156bcbacc11dc008960e1~tplv-resize:640:0.png,170,"[12.78, 10.98]",起亚,470,紧凑型SUV,汽油,2021.07,5年或10万公里
+江淮钇为,爱跑,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/99c0e84612604e6bb00ed8b4c57a1ab5~tplv-resize:640:0.png,169,"[18.99, 15.29]",江汽集团,471,紧凑型车,纯电动,2024.03,3年或12万公里
+五菱汽车,凯捷Victory,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/5564c09fd91040f0984815b9669d6763~tplv-resize:640:0.png,168,"[14.98, 8.58]",上汽通用五菱,472,紧凑型MPV,汽油,2023.11,3年或10万公里
+启辰,启辰星,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/b0b6cc8b5a444a168d223471447a26dc~tplv-resize:640:0.png,168,"[14.96, 12.26]",东风日产,473,紧凑型SUV,汽油,2022.11,3年或10万公里
+名爵,MG ONE,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6aca48597c4c478195acd0dbcee6aa10~tplv-resize:640:0.png,166,"[13.88, 8.78]",上汽集团,474,紧凑型SUV,汽油,2023.07,3年或10万公里
+丰田,奕泽IZOA,https://p3-dcd.byteimg.com/img/motor-mis-img/032f79481ca76533e7a56d98770ad4e3~tplv-resize:640:0.png,163,"[14.98, 10.98]",一汽丰田,475,小型SUV,汽油,2023.05,3年或10万公里
+本田,e:NP1 极湃1,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8f1fca2269d94ce289be76e6a2da2dd8~tplv-resize:640:0.png,160,"[15.8, 11.5]",广汽本田,476,小型SUV,纯电动,2022.06,3年或12万公里
+别克,昂科旗,https://p3-dcd.byteimg.com/img/motor-mis-img/bc901ffc4cc27ad809db884987ea9edc~tplv-resize:640:0.png,160,"[28.99, 22.99]",上汽通用别克,477,中大型SUV,48V轻混系统,2021.08,3年或10万公里
+标致,标致508L,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e3b8a7573b784ab388129d474b434366~tplv-resize:640:0.png,160,"[19.07, 14.67]",东风标致,478,中型车,汽油,2023.08,5年或15万公里
+东风风行,风行S50 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/7dc51c86c5c6d2541cadc95dcf4aa5d0~tplv-resize:640:0.png,158,"[16.99, 15.09]",东风风行,479,紧凑型车,纯电动,2023.08,8年或16万公里
+马自达,马自达CX-30,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/d266c935398141da87d4cdcd0a25d7fe~tplv-resize:640:0.png,157,"[18.99, 9.99]",长安马自达,480,小型SUV,汽油,2024.07,3年或10万公里
+本田,皓影 PHEV,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/fede19012b59405dbaf2cb12c3700cc0~tplv-resize:640:0.png,154,"[23.99, 19.59]",广汽本田,481,紧凑型SUV,插电式混合动力,2023.06,3年或10万公里
+江淮汽车,江淮QX PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/5901534bebac4251a0136474f5411173~tplv-resize:640:0.png,152,"[19.19, 8.99]",江汽集团,482,紧凑型SUV,插电式混合动力,2024.03,3年或10万公里
+江铃集团新能源,羿,https://p3-dcd.byteimg.com/img/motor-mis-img/c53f4e31b5bc85aa0d8c14dec47cac09~tplv-resize:640:0.png,152,"[19.98, 11.88]",江铃集团新能源,483,紧凑型车,纯电动,2024.04,3年或6万公里
+奔腾,奔腾T55,https://p9-dcd.byteimg.com/img/motor-mis-img/5eb9a1106aaeba38383586d41c10fd06~tplv-resize:640:0.png,147,"[9.49, 7.59]",一汽奔腾,484,紧凑型SUV,汽油,2023.04,3年或10万公里
+上汽大通MAXUS,大家9 EV,https://p9-dcd.byteimg.com/img/motor-mis-img/149f3cd713fb650b0414ba133fad555a~tplv-resize:640:0.png,144,"[40.39, 25.39]",上汽大通,485,中大型MPV,纯电动,2023.06,3年或10万公里
+雪佛兰,开拓者,https://p3-dcd.byteimg.com/img/motor-mis-img/87022b02e646f4a4204f2cb8f323d5ca~tplv-resize:640:0.png,141,"[24.19, 16.99]",上汽通用雪佛兰,486,中大型SUV,48V轻混系统,2023.07,3年或10万公里
+斯柯达,柯珞克,https://p9-dcd.byteimg.com/img/motor-mis-img/f2176b645be4a6b2cb11efbd76de5b0f~tplv-resize:640:0.png,141,"[11.7, 11.2]",上汽大众斯柯达,487,紧凑型SUV,汽油,2023.10,3年或10万公里
+别克,别克E4,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/175bc28c8fc7468285a60c50af81f2e3~tplv-resize:640:0.png,138,"[22.49, 15.49]",上汽通用别克,488,中大型SUV,纯电动,2023.06,3年或10万公里
+北汽制造,勇士,https://p3-dcd.byteimg.com/img/motor-mis-img/dcf664514941d152d7c6466649b34f29~tplv-resize:640:0.png,137,"[14.88, 10.68]",北京汽车制造厂,489,紧凑型SUV,汽油,2021.05,3年或6万公里
+长安欧尚,奔奔E-Star,https://p9-dcd.byteimg.com/img/motor-mis-img/5a66c6bc0c1d71c7e6f68f53b902d1b9~tplv-resize:640:0.png,134,"[6.79, 6.79]",长安汽车,490,小型车,纯电动,2023.05,3年或12万公里
+荣威,荣威iMAX8,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6db94c2ed63e49d6a42eba931d90c2c0~tplv-resize:640:0.png,132,"[23.58, 16.58]",上汽集团,491,中大型MPV,汽油,2023.03,3年或10万公里
+上汽大通MAXUS,大家7 EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/91bdc8d73c5d469a821b6f6b5cefead5~tplv-resize:640:0.png,125,"[29.98, 14.58]",上汽大通,492,中型MPV,纯电动,2023.11,5年或10万公里
+五菱汽车,五菱Air ev晴空,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8c27ef5a5a234a1d8d74da44fb388893~tplv-resize:640:0.png,125,"[6.98, 5.78]",上汽通用五菱,493,微型车,纯电动,2022.12,3年或10万公里
+荣威,荣威eRX5,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e6c1c61db1b244cd87614a65ebe5ac0e~tplv-resize:640:0.png,125,"[14.79, 13.59]",上汽集团,494,紧凑型SUV,插电式混合动力,2022.08,3年或10万公里
+本田,本田LIFE,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/be382f51ae294caca8a0db835819303a~tplv-resize:640:0.png,120,"[9.48, 7.98]",东风本田,495,小型车,汽油,2023.01,3年或10万公里
+东风风光,风光ix5,https://p9-dcd.byteimg.com/img/motor-mis-img/9519498106439cdc90e3620b34127cfb~tplv-resize:640:0.png,120,"[16.59, 9.98]",东风小康,496,中型SUV,汽油,2022.05,7年或15万公里
+凯翼,炫界Pro EV,https://p9-dcd.byteimg.com/img/motor-mis-img/297b50a8f659602e2fd62223e67c0c2a~tplv-resize:640:0.png,118,"[17.66, 11.99]",凯翼汽车,497,紧凑型SUV,纯电动,2023.09,3年或10万公里
+东风风行,风行T5,https://p3-dcd.byteimg.com/img/motor-mis-img/f064dda2650019f6c0ba1e1f1a96135c~tplv-resize:640:0.png,117,"[13.99, 6.49]",东风风行,498,紧凑型SUV,汽油,2023.11,8年或16万公里
+本田,英仕派 PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/2bf120cedd91403a856299dadaaa5cb8~tplv-resize:640:0.png,116,"[22.38, 19.48]",东风本田,499,中型车,插电式混合动力,2023.07,3年或10万公里
+比亚迪,元Pro,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/75aceda12312482a844f17861bbac469~tplv-resize:640:0.png,115,"[9.78, 7.98]",比亚迪,500,小型SUV,纯电动,2023.05,6年或15万公里
+雪佛兰,探界者,https://p3-dcd.byteimg.com/img/motor-mis-img/d0cade284d533a6e482e19d58e728e01~tplv-resize:640:0.png,114,"[16.99, 11.49]",上汽通用雪佛兰,501,中型SUV,汽油,2023.05,3年或10万公里
+广汽传祺,影酷,https://p9-dcd.byteimg.com/img/motor-mis-img/fb916563d977a0dcf0ca3a200e4eda73~tplv-resize:640:0.png,113,"[13.98, 10.18]",广汽乘用车,502,紧凑型SUV,汽油,2022.09,3年或10万公里
+大众,途观L PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/78839f72969927901241f358c5115d2c~tplv-resize:640:0.png,113,"[22.7, 21.61]",上汽大众,503,中型SUV,插电式混合动力,2022.08,3年或10万公里
+奔腾,奔腾T77,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/208b41b8440a4604b8b663b5a81cfae1~tplv-resize:640:0.png,113,"[9.88, 8.98]",一汽奔腾,504,紧凑型SUV,汽油,2022.12,3年或10万公里
+五菱汽车,五菱星云,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8e1e7ccb63a5461ca752b715b97dcba2~tplv-resize:640:0.png,109,"[10.58, 8.98]",上汽通用五菱,505,紧凑型SUV,油电混合,2023.09,3年或10万公里
+星途,星纪元 ES,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/37817ffe81ca4d6e81b819f76acb9970~tplv-resize:640:0.png,109,"[31.98, 19.88]",星途,506,中大型车,纯电动,2024.01,4年或12万公里
+沃尔沃,沃尔沃EM90,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/05a3c8b3200349ae9f606af6cb81bae5~tplv-resize:640:0.png,107,"[81.8, 81.8]",沃尔沃亚太,507,中大型MPV,纯电动,2023.11,6年不限里程
+本田,本田e:NS1,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/0a57ed27aacd44b481e78ac2404d68e1~tplv-resize:640:0.png,102,"[18.8, 14.5]",东风本田,508,小型SUV,纯电动,2022.04,3年或12万公里
+欧拉,欧拉芭蕾猫,https://p3-dcd.byteimg.com/img/motor-mis-img/0bedfedf47aa941755f9ae70f4b0233b~tplv-resize:640:0.png,99,"[16.98, 13.98]",长城汽车,509,紧凑型车,纯电动,2023.04,4年或15万公里
+凯迪拉克,IQ锐歌,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/5b605a25ad8a418bb3cdadd026658e20~tplv-resize:640:0.png,96,"[41.97, 29.77]",上汽通用凯迪拉克,510,中大型SUV,纯电动,2023.11,3年不限公里
+哪吒汽车,哪吒GT,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7f4a9f907b14465e9fdf87ff93430bea~tplv-resize:640:0.png,83,"[22.68, 18.88]",合众汽车,511,跑车,纯电动,2023.04,4年或12万公里
+长安凯程,长安之星9 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/628f41aac12211548f30b7868b5ce3ab~tplv-resize:640:0.png,80,"[16.89, 13.28]",长安轻型车,512,微面,纯电动,2024.03,3年或6万公里
+北汽制造,元宝,https://p9-dcd.byteimg.com/img/motor-mis-img/99bb51329fafa5120ad763c8e97a3c22~tplv-resize:640:0.png,79,"[5.19, 2.97]",北京汽车制造厂,513,微型车,纯电动,2023.03,3年或10万公里
+斯柯达,明锐,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/e5d55d4c1ece47ceb29e28624cf1ca70~tplv-resize:640:0.png,79,"[11.19, 9.39]",上汽大众斯柯达,514,紧凑型车,汽油,2024.01,3年或10万公里
+福特,途睿欧,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/14c65fe6c78648d98181e94d165541f1~tplv-resize:640:0.png,78,"[26, 21.96]",江铃福特,515,中型MPV,汽油,2024.03,3年或6万公里
+江淮瑞风,瑞风RF8,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/39afc55e13524aa282721edb3f7fef84~tplv-resize:640:0.png,66,"[20.99, 16.99]",江汽集团,521,中大型MPV,汽油,2024.01,5年或10万公里
+上汽大通MAXUS,大家5 PLUG IN,https://p3-dcd.byteimg.com/img/motor-mis-img/4f42d5ff30f94ef4c7da101045312782~tplv-resize:640:0.png,65,"[19.88, 16.88]",上汽大通,522,紧凑型MPV,插电式混合动力,2024.03,3年或8万公里
+名爵,MG Cyberster,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/ac9ac9b7da874f58987ca01e8dd4cb22~tplv-resize:640:0.png,65,"[36.58, 31.98]",上汽集团,523,跑车,纯电动,2023.11,6年或15万公里
+东风风行,风行T5 EVO,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/3bf531df6ea944619da286295d32c5c6~tplv-resize:640:0.png,64,"[13.99, 9.99]",东风风行,524,紧凑型SUV,汽油,2023.05,8年或16万公里
+长安,长安UNI-K 智电iDD,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/f7960d1c00c644449d528cf7b5d922ec~tplv-resize:640:0.png,63,"[20.09, 17.29]",长安汽车,525,中型SUV,插电式混合动力,2024.01,3年或12万公里
+上汽大通MAXUS,领地,https://p9-dcd.byteimg.com/img/motor-mis-img/fd99ba99b35ccc8d6e1562f1142f1856~tplv-resize:640:0.png,62,"[27.48, 19.48]",上汽大通,526,中大型SUV,汽油,2023.06,3年或10万公里
+雪佛兰,雪佛兰畅巡,https://p3-dcd.byteimg.com/img/motor-mis-img/017ffe70e741c3fe352de81cc84795ce~tplv-resize:640:0.png,60,"[19.79, 15.09]",上汽通用雪佛兰,527,紧凑型车,纯电动,2023.06,3年或10万公里
+DS,DS 7,https://p9-dcd.byteimg.com/img/motor-mis-img/ed26b29c1b4cc3f3c703070d4997ce5e~tplv-resize:640:0.png,58,"[32.99, 24.99]",DS汽车,528,紧凑型SUV,汽油,2022.11,3年或10万公里
+上汽大通MAXUS,大家9超混,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/589970fa48a2417192313a9ea2c696ba~tplv-resize:640:0.png,55,"[34.99, 25.99]",上汽大通,529,中大型MPV,插电式混合动力,2024.06,3年或10万公里
+东风风行,菱智M5 EV,https://p9-dcd.byteimg.com/img/motor-mis-img/15d17f467e2b685be5487fe2fcad8df9~tplv-resize:640:0.png,53,"[19.69, 15.99]",东风风行,530,中型MPV,纯电动,2023.11,5年或10万公里
+凯迪拉克,凯迪拉克GT4,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/6db297a9abf54fcb86895a89462201a4~tplv-resize:640:0.png,52,"[27.47, 18.97]",上汽通用凯迪拉克,531,紧凑型SUV,48V轻混系统,2023.05,3年不限公里
+小鹏汽车,小鹏G3,https://p3-dcd.byteimg.com/img/motor-mis-img/5fe645aae83133a591bb27313ec66986~tplv-resize:640:0.png,52,"[16.69, 13.89]",小鹏汽车,532,紧凑型SUV,纯电动,2022.09,4年或10万公里
+上汽大通MAXUS,大家5 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/4f42d5ff30f94ef4c7da101045312782~tplv-resize:640:0.png,51,"[22.78, 19.48]",上汽大通,533,紧凑型MPV,纯电动,2023.08,3年或8万公里
+捷豹,捷豹E-PACE,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/1e15311a8df14f7b9e95bdbc308c9eb1~tplv-resize:640:0.png,51,"[20.87, 17.15]",奇瑞捷豹路虎,534,紧凑型SUV,48V轻混系统,2023.08,3年或10万公里
+现代,菲斯塔,https://p3-dcd.byteimg.com/img/motor-mis-img/59c714d0afdd6fbe61a5108d3c29327f~tplv-resize:640:0.png,50,"[14.78, 13.18]",北京现代,535,紧凑型车,汽油,2022.11,3年或10万公里
+大众,途安L,https://p3-dcd.byteimg.com/img/motor-mis-img/20f107b28a94a16705865e9b91e79819~tplv-resize:640:0.png,50,"[17.08, 14.18]",上汽大众,536,紧凑型MPV,汽油,2023.10,3年或10万公里
+东风风行,风行雷霆,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/208be4380d144330a1968e5c32356d41~tplv-resize:640:0.png,47,"[22.99, 9.98]",东风风行,537,紧凑型SUV,纯电动,2024.04,8年或16万公里
+Polestar极星,Polestar 4,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/986fd027248b4db8929ffb4df7743387~tplv-resize:640:0.png,42,"[39.99, 33.99]",Polestar,538,中型SUV,纯电动,2023.11,3年不限公里
+英菲尼迪,英菲尼迪QX50,https://p3-dcd.byteimg.com/img/motor-mis-img/6538990a28bbef23dac96e53c83ddce2~tplv-resize:640:0.png,40,"[27.18, 23.08]",东风英菲尼迪,539,中型SUV,汽油,2023.11,4年或10万公里
+合创汽车,合创V09,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7326212aa38e48f4983959b242a74c05~tplv-resize:640:0.png,39,"[43.88, 31.88]",合创汽车,540,中大型MPV,纯电动,2023.10,6年或15万公里
+福特,EVOS,https://p3-dcd.byteimg.com/img/motor-mis-img/62f1f5c9892cfbf4cf1c75e071638aa7~tplv-resize:640:0.png,39,"[22.98, 16.98]",长安福特,541,中型SUV,汽油,2021.11,3年或10万公里
+江淮瑞风,瑞风E3,https://p3-dcd.byteimg.com/img/motor-mis-img/9b9b2bcb01b623c18ed53331a08ff11b~tplv-resize:640:0.png,38,"[19.88, 16.48]",江汽集团,542,紧凑型MPV,纯电动,2024.02,3年或10万公里
+沃尔沃,沃尔沃XC40 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/31d2b6da640b935204b7bfc42e4206a2~tplv-resize:640:0.png,38,"[32.2, 28.29]",沃尔沃亚太,543,紧凑型SUV,纯电动,2023.10,3年不限公里
+别克,昂扬,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/83dfea1c6d9a4ca6a1d324a8c13ae3e6~tplv-resize:640:0.png,36,"[15.89, 13.29]",上汽通用别克,544,紧凑型SUV,汽油,2021.08,3年或10万公里
+现代,胜达,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/8be51508aa7c49469a721a9ffd53e9bf~tplv-resize:640:0.png,32,"[22.98, 16.28]",北京现代,545,中型SUV,汽油,2022.09,5年/10万公里或7年/7万公里或3年/15万公里
+埃安,AION LX,https://p3-dcd.byteimg.com/img/motor-mis-img/dbf23140365cfdd6d48480c3fd5bbe46~tplv-resize:640:0.png,31,"[41.96, 23.66]",广汽埃安新能源,546,中型SUV,纯电动,2022.01,4年或15万公里
+上汽大通MAXUS,大家7超混,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c20bcc04c2e143a4a51c2d2ddda8831a~tplv-resize:640:0.png,29,"[24.99, 19.49]",上汽大通,547,中型MPV,插电式混合动力,2024.06,3年或10万公里
+上汽大通MAXUS,大通G70,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/e5773a7982d5488488c634703c9736d1~tplv-resize:640:0.png,29,"[20.48, 14.98]",上汽大通,548,中型MPV,汽油,2023.11,5年或10万公里
+SWM斯威汽车,斯威大虎,https://p3-dcd.byteimg.com/img/motor-mis-img/58e560b3d39624fd34bf2c2fd9d0135f~tplv-resize:640:0.png,29,"[7.89, 5.99]",SWM斯威汽车,549,中型SUV,汽油,2022.08,3年或6万公里
+东风风行,风行游艇,https://p3-dcd.byteimg.com/img/motor-mis-img/85a0e84f644c302002af793cd2b3584a~tplv-resize:640:0.png,27,"[15.69, 11.99]",东风风行,550,中型MPV,汽油,2023.10,8年或16万公里
+北京,北京BJ80,https://p3-dcd.byteimg.com/img/motor-mis-img/4f52b32a408cd7fd40a897d72970964f~tplv-resize:640:0.png,26,"[39.8, 29.8]",北京汽车,551,中大型SUV,汽油,2023.12,3年或10万公里
+本田,凌派,https://p3-dcd.byteimg.com/img/motor-mis-img/0177f23b0d8ce46f98fdd1a0c442f875~tplv-resize:640:0.png,25,"[13.98, 8.98]",广汽本田,552,紧凑型车,汽油,2023.05,3年或10万公里
+星途,星途追风,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/04e86b0d24e647f6ae1fae3ef6b32be3~tplv-resize:640:0.png,24,"[16.99, 10.29]",星途,553,紧凑型SUV,汽油,2023.09,3年或10万公里
+沃尔沃,沃尔沃C40 EV,https://p3-dcd.byteimg.com/img/motor-mis-img/a33abe2401429de388c10fa422965b66~tplv-resize:640:0.png,22,"[34.2, 29.2]",沃尔沃亚太,554,紧凑型SUV,纯电动,2023.10,3年不限公里
+江淮汽车,江淮X8 PLUS,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/cf84c6dcdafb46cbbde7cd49e3cd70df~tplv-resize:640:0.png,20,"[17.97, 8.98]",江汽集团,555,中型SUV,汽油,2024.03,3年或10万公里
+比亚迪,宋MAX DM,https://p3-dcd.byteimg.com/img/motor-mis-img/7ec97e2a0cd2675c197335c8319f94b1~tplv-resize:640:0.png,20,"[16.48, 13.78]",比亚迪,556,紧凑型MPV,插电式混合动力,2022.03,6年或15万公里
+红旗,红旗E-HS9,https://p9-dcd.byteimg.com/img/motor-mis-img/fb5c6d20cd6044b28f6eec55dcd6c61c~tplv-resize:640:0.png,18,"[77.98, 50.98]",一汽红旗,557,大型SUV,纯电动,2024.03,4年或10万公里
+捷途,捷途X70S EV,https://p3-dcd.byteimg.com/img/motor-mis-img/f4e6e2fbaa0cecf457663534e094c6f1~tplv-resize:640:0.png,18,"[17.98, 16.98]",奇瑞汽车,558,中型SUV,纯电动,2019.09,4年或10万公里
+哈弗,哈弗H9,https://p9-dcd.byteimg.com/img/motor-mis-img/f4d73dc8d64af9db71aa8ab11543b329~tplv-resize:640:0.png,18,"[22.78, 16.28]",长城汽车,559,中大型SUV,汽油,2021.09,3年或10万公里
+雪佛兰,星迈罗,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/8872eb50f9e04be1b5b3314e99ffbca7~tplv-resize:640:0.png,16,"[12.39, 9.89]",上汽通用雪佛兰,560,紧凑型SUV,汽油,2023.07,3年或10万公里
+起亚,焕驰,https://p3-dcd.byteimg.com/img/motor-mis-img/c655aa38e008e10259a76a207c62a295~tplv-resize:640:0.png,15,"[5.79, 5.49]",起亚,561,小型车,汽油,2020.08,3年或10万公里
+起亚,索奈,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/f51d6641c9c34d02b7833d4b2f9fd602~tplv-resize:640:0.png,13,"[10.09, 9.19]",起亚,562,小型SUV,汽油,2024.04,3年或10万公里
+奔驰,奔驰EQE,https://p3-dcd.byteimg.com/img/motor-mis-img/4ea57237b66d26a84ae6dcc9adc0af6f~tplv-resize:640:0.png,13,"[33.13, 27.5]",北京奔驰,563,中大型车,纯电动,2022.08,3年不限公里
+丰田,威兰达PHEV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/fe0a534abd314543a5f1f803bab7597d~tplv-resize:640:0.png,10,"[21.18, 17.68]",广汽丰田,564,紧凑型SUV,插电式混合动力,2024.06,3年或10万公里
+ARCFOX极狐,极狐 阿尔法T,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/dd472c544e4543c2a73cff99e44f8bdc~tplv-resize:640:0.png,10,"[28.08, 18.58]",北汽新能源,565,中型SUV,纯电动,2023.06,3年或12万公里
+SWM斯威汽车,斯威G05,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/c925af638a1c4f7fb547993f1c3de73e~tplv-resize:640:0.png,10,"[12.98, 8.69]",SWM斯威汽车,566,中型SUV,汽油,2023.01,3年或6万公里
+雪佛兰,创酷,https://p9-dcd.byteimg.com/img/motor-mis-img/7f32d8c6bf3899a4d61b5059c5717c70~tplv-resize:640:0.png,10,"[10.69, 8.79]",上汽通用雪佛兰,567,小型SUV,汽油,2023.07,3年或10万公里
+比亚迪,比亚迪D1,https://p3-dcd.byteimg.com/img/motor-mis-img/16a73f90c37db0a802139dd3bcb55a8b~tplv-resize:640:0.png,8,"[16.98, 16.08]",比亚迪,568,紧凑型MPV,纯电动,2023.06,6年或15万公里
+红旗,红旗国耀,https://p3-dcd.byteimg.com/img/motor-mis-img/0b094b3ada0704b3ef49fa69acb10d59~tplv-resize:640:0.png,7,"[146.58, 136.58]",一汽红旗,569,大型SUV,汽油,2022.08,4年或10万公里
+荣威,荣威RX9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/7118e0bee36049a283022e08e4995b36~tplv-resize:640:0.png,7,"[24.38, 17.58]",上汽集团,570,中大型SUV,汽油,2023.03,3年或10万公里
+奔驰,奔驰EQA,https://p9-dcd.byteimg.com/img/tos-cn-i-dcdx/7015d0380cb24469941e8a4b9c7026b8~tplv-resize:640:0.png,6,"[18.1, 18.1]",北京奔驰,571,紧凑型SUV,纯电动,2024.08,3年不限公里
+一汽,森雅R7,https://p3-dcd.byteimg.com/img/motor-mis-img/aecc527761d81e6b35253fef9d34ec02~tplv-resize:640:0.png,6,"[8.98, 7.98]",一汽吉林,572,小型SUV,汽油,2024.04,3年或6万公里
+奔腾,奔腾M9,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/87923bd1a148439abd86c047bdd7dc6d~tplv-resize:640:0.png,5,"[24.98, 22.98]",一汽奔腾,573,中大型MPV,48V轻混系统,2023.10,3年或10万公里
+奥迪,奥迪e-tron,https://p3-dcd.byteimg.com/img/motor-mis-img/e8587b667f120eb9f0f98d11371b8b74~tplv-resize:640:0.png,5,"[45.42, 38.28]",一汽-大众奥迪,574,中大型SUV,纯电动,2021.04,3年或10万公里
+哈弗,哈弗H6 PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/f6c414b7d3d6068a4cf97e19b1f7b11f~tplv-resize:640:0.png,4,"[14.17, 12.77]",长城汽车,575,紧凑型SUV,插电式混合动力,2022.09,6年或15万公里包修
+合创汽车,合创007,https://p3-dcd.byteimg.com/img/motor-mis-img/08a44355529f774514bb9aa8957929a2~tplv-resize:640:0.png,4,"[29.98, 29.98]",合创汽车,576,中型SUV,纯电动,2021.05,5年不限公里
+荣威,CLEVER,https://p3-dcd.byteimg.com/img/motor-mis-img/0df783917aab490ada07cd607aa9dedf~tplv-resize:640:0.png,4,"[5.19, 5.19]",上汽集团,577,微型车,纯电动,2022.03,3年或10万公里
+大众,探岳GTE,https://p9-dcd.byteimg.com/img/motor-mis-img/aac0f155b2015c4933cda7ea9afec655~tplv-resize:640:0.png,4,"[19.09, 19.09]",一汽-大众,578,中型SUV,插电式混合动力,2023.09,3年或10万公里
+SWM斯威汽车,斯威G01,https://p9-dcd.byteimg.com/img/motor-mis-img/ebaf0a6393b02410b033ae200675abdc~tplv-resize:640:0.png,4,"[26.98, 26.98]",SWM斯威汽车,579,紧凑型SUV,汽油,2022.09,3年或6万公里
+沃尔沃,沃尔沃S60 PHEV,https://p9-dcd.byteimg.com/img/motor-mis-img/0e1a0647fc7451ffefef866f0bf05386~tplv-resize:640:0.png,4,"[38.29, 33.39]",沃尔沃亚太,580,中型车,插电式混合动力,2023.07,3年不限公里
+红旗,红旗国礼,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/dcc20ee3f08749d9bd2a6eb1febf1d11~tplv-resize:640:0.png,4,"[718, 718]",一汽红旗,581,大型车,汽油,2024.06,4年或10万公里
+岚图,岚图追光 EV,https://p3-dcd.byteimg.com/img/tos-cn-i-dcdx/45e0ac325fd04a4e8b1ce482ce1be56e~tplv-resize:640:0.png,1,"[33.59, 27.29]",岚图汽车,591,中大型车,纯电动,2023.04,5年或10万公里
+丰田,广汽丰田bZ4X,https://p3-dcd.byteimg.com/img/motor-mis-img/0534600885eae10c8086cc8cee5d19fb~tplv-resize:640:0.png,1,"[26.78, 17.98]",广汽丰田,592,中型SUV,纯电动,2022.10,3年或10万公里
+凯翼,轩度,https://p9-dcd.byteimg.com/img/motor-mis-img/fad7c3cbf79e7f38ea95446b78b262c3~tplv-resize:640:0.png,1,"[9.39, 7.98]",凯翼汽车,593,紧凑型车,汽油,2023.06,3年或10万公里
+DS,DS 9 PHEV,https://p3-dcd.byteimg.com/img/motor-mis-img/6505fe35f2a3a3ffa5a1ffbb7bd5a617~tplv-resize:640:0.png,1,"[40.49, 33.49]",DS汽车,594,中型车,插电式混合动力,2022.03,8年或12万公里
+启辰,启辰T60 EV,https://p9-dcd.byteimg.com/img/motor-mis-img/8580d3841feffe043c2ca57c2cf034c7~tplv-resize:640:0.png,1,"[16.48, 16.48]",东风日产,595,小型SUV,纯电动,2023.03,3年或12万公里
+理念,广汽本田VE-1,https://p3-dcd.byteimg.com/img/motor-mis-img/6b45b76df3eac473edc4da19a10ce8d7~tplv-resize:640:0.png,1,"[14.68, 11.98]",广汽本田,596,小型SUV,纯电动,2022.09,3年或10万公里
